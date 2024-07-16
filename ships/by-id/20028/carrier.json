@@ -1,0 +1,29 @@
+{
+    "Name": "Kearsarge",
+    "Reload": 155,
+    "ReloadUnkai": 155,
+    "Slot1": {
+        "MLB": {
+            "N": 3
+        },
+        "Retrofit": {
+            "N": 3
+        }
+    },
+    "Slot2": {
+        "MLB": {
+            "F": 4
+        },
+        "Retrofit": {
+            "F": 4
+        }
+    },
+    "Slot3": {
+        "MLB": {
+            "N": 1
+        },
+        "Retrofit": {
+            "N": 1
+        }
+    }
+}

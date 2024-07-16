@@ -1,0 +1,29 @@
+{
+    "Name": "Luna",
+    "Reload": 177,
+    "ReloadUnkai": 177,
+    "Slot1": {
+        "MLB": {
+            "F": 2
+        },
+        "Retrofit": {
+            "F": 2
+        }
+    },
+    "Slot2": {
+        "MLB": {
+            "T": 4
+        },
+        "Retrofit": {
+            "T": 4
+        }
+    },
+    "Slot3": {
+        "MLB": {
+            "N": 1
+        },
+        "Retrofit": {
+            "N": 1
+        }
+    }
+}

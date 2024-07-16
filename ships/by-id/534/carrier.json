@@ -1,0 +1,37 @@
+{
+    "Name": "Chen Hai",
+    "Reload": 208,
+    "ReloadUnkai": 188,
+    "Slot1": {
+        "MLB": {
+            "S": 1
+        },
+        "Retrofit": {
+            "F": 3,
+            "S": 3
+        }
+    },
+    "Slot2": {
+        "MLB": {
+            "D": 1,
+            "F": 1,
+            "N": 1,
+            "S": 1
+        },
+        "Retrofit": {
+            "D": 2,
+            "F": 2,
+            "N": 2,
+            "S": 2,
+            "T": 2
+        }
+    },
+    "Slot3": {
+        "MLB": {
+            "N": 1
+        },
+        "Retrofit": {
+            "N": 1
+        }
+    }
+}
