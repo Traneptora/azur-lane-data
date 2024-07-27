@@ -767,6 +767,12 @@
             "dataJSON": "ships/by-id/30035/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30036",
+            "Name": "Kasumi META",
+            "ShipID": "30036",
+            "dataJSON": "ships/by-id/30036/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
@@ -4569,6 +4575,25 @@
             "Name": "Z43",
             "ShipID": "651",
             "dataJSON": "ships/by-id/651/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/652",
+            "Name": "Strasbourg",
+            "ShipID": "652",
+            "battleshipJSON": "ships/by-id/652/battleship.json",
+            "dataJSON": "ships/by-id/652/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/653",
+            "Name": "L'Audacieux",
+            "ShipID": "653",
+            "dataJSON": "ships/by-id/653/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/654",
+            "Name": "Dupleix",
+            "ShipID": "654",
+            "dataJSON": "ships/by-id/654/ship.json"
         }
     ]
 }

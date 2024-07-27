@@ -852,6 +852,13 @@
             "ShipID": "648",
             "battleshipJSON": "ships/by-id/648/battleship.json",
             "dataJSON": "ships/by-id/648/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/652",
+            "Name": "Strasbourg",
+            "ShipID": "652",
+            "battleshipJSON": "ships/by-id/652/battleship.json",
+            "dataJSON": "ships/by-id/652/ship.json"
         }
     ]
 }
