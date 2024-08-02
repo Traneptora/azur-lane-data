@@ -26429,7 +26429,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Battlecruiser",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm5337560/ Ikumi Hasegawa]"
             }
         },
         {
@@ -26464,10 +26464,10 @@
                 "AirMax": "0",
                 "Ammo": "0",
                 "Armor": "Light",
-                "Artist": null,
+                "Artist": "NAMYO",
                 "ArtistLink": null,
-                "ArtistPixiv": null,
-                "ArtistTwitter": null,
+                "ArtistPixiv": "[https://www.pixiv.net/en/users/6390291 NAMYO]",
+                "ArtistTwitter": "[https://twitter.com/NAMYOooo NAMYO]",
                 "CNName": "果敢",
                 "Class": "Le Fantasque",
                 "ConstructTime": "00:33:00",
@@ -26547,7 +26547,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "264",
                 "Type": "Destroyer",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm11819515/ Akari Miyazaki]"
             }
         },
         {
@@ -26665,7 +26665,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "233",
                 "Type": "Heavy Cruiser",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm9222530/ Emi Hirayama]"
             }
         }
     ]
