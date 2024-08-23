@@ -4594,6 +4594,37 @@
             "Name": "Dupleix",
             "ShipID": "654",
             "dataJSON": "ships/by-id/654/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/655",
+            "Name": "Pittsburgh",
+            "ShipID": "655",
+            "dataJSON": "ships/by-id/655/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/657",
+            "Name": "Fargo",
+            "ShipID": "657",
+            "dataJSON": "ships/by-id/657/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/658",
+            "Name": "Herring",
+            "ShipID": "658",
+            "dataJSON": "ships/by-id/658/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/659",
+            "Name": "Bell",
+            "ShipID": "659",
+            "dataJSON": "ships/by-id/659/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/66",
+            "Name": "Indiana",
+            "ShipID": "66",
+            "battleshipJSON": "ships/by-id/66/battleship.json",
+            "dataJSON": "ships/by-id/66/ship.json"
         }
     ]
 }
