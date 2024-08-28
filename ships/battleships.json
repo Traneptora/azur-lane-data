@@ -339,6 +339,13 @@
             "dataJSON": "ships/by-id/065/ship.json"
         },
         {
+            "DataDir": "ships/by-id/066",
+            "Name": "Indiana",
+            "ShipID": "066",
+            "battleshipJSON": "ships/by-id/066/battleship.json",
+            "dataJSON": "ships/by-id/066/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/068",
             "Name": "New Jersey",
             "ShipID": "068",
@@ -859,13 +866,6 @@
             "ShipID": "652",
             "battleshipJSON": "ships/by-id/652/battleship.json",
             "dataJSON": "ships/by-id/652/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/66",
-            "Name": "Indiana",
-            "ShipID": "66",
-            "battleshipJSON": "ships/by-id/66/battleship.json",
-            "dataJSON": "ships/by-id/66/ship.json"
         }
     ]
 }
