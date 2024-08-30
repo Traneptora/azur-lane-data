@@ -441,6 +441,13 @@
             "dataJSON": "ships/by-id/220/ship.json"
         },
         {
+            "DataDir": "ships/by-id/221",
+            "Name": "Zuihou",
+            "ShipID": "221",
+            "carrierJSON": "ships/by-id/221/carrier.json",
+            "dataJSON": "ships/by-id/221/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/222",
             "Name": "Shouhou",
             "ShipID": "222",
