@@ -40506,13 +40506,13 @@
                 "AirMax": "293",
                 "Ammo": "0",
                 "Armor": "Medium",
-                "Artist": null,
+                "Artist": "NAMYO",
                 "ArtistLink": null,
-                "ArtistPixiv": null,
-                "ArtistTwitter": null,
+                "ArtistPixiv": "[https://www.pixiv.net/en/users/6390291 NAMYO]",
+                "ArtistTwitter": "[https://twitter.com/NAMYOooo NAMYO]",
                 "CNName": "鹳",
                 "Class": "Zuihou",
-                "ConstructTime": "Can't Be Constructed",
+                "ConstructTime": "02:22:00",
                 "ConsumptionInitial": "4",
                 "ConsumptionMax": "12",
                 "Eq1BaseKai": null,
@@ -40589,7 +40589,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Light Aircraft Carrier",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm13619894/ Hika Tsukishiro]"
             }
         },
         {
