@@ -170,6 +170,13 @@
             "dataJSON": "ships/by-id/30031/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30037",
+            "Name": "Nagato META",
+            "ShipID": "30037",
+            "battleshipJSON": "ships/by-id/30037/battleship.json",
+            "dataJSON": "ships/by-id/30037/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
