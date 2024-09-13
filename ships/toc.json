@@ -780,6 +780,13 @@
             "dataJSON": "ships/by-id/30037/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30038",
+            "Name": "Hiei META",
+            "ShipID": "30038",
+            "battleshipJSON": "ships/by-id/30038/battleship.json",
+            "dataJSON": "ships/by-id/30038/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
@@ -4639,6 +4646,31 @@
             "Name": "Bell",
             "ShipID": "659",
             "dataJSON": "ships/by-id/659/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/660",
+            "Name": "Amagi(CV)",
+            "ShipID": "660",
+            "carrierJSON": "ships/by-id/660/carrier.json",
+            "dataJSON": "ships/by-id/660/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/661",
+            "Name": "Watarase",
+            "ShipID": "661",
+            "dataJSON": "ships/by-id/661/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/662",
+            "Name": "Ayase",
+            "ShipID": "662",
+            "dataJSON": "ships/by-id/662/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/663",
+            "Name": "Suzunami",
+            "ShipID": "663",
+            "dataJSON": "ships/by-id/663/ship.json"
         }
     ]
 }

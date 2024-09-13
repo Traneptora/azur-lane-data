@@ -817,6 +817,13 @@
             "ShipID": "633",
             "carrierJSON": "ships/by-id/633/carrier.json",
             "dataJSON": "ships/by-id/633/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/660",
+            "Name": "Amagi(CV)",
+            "ShipID": "660",
+            "carrierJSON": "ships/by-id/660/carrier.json",
+            "dataJSON": "ships/by-id/660/ship.json"
         }
     ]
 }

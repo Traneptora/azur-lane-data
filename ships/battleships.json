@@ -177,6 +177,13 @@
             "dataJSON": "ships/by-id/30037/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30038",
+            "Name": "Hiei META",
+            "ShipID": "30038",
+            "battleshipJSON": "ships/by-id/30038/battleship.json",
+            "dataJSON": "ships/by-id/30038/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
