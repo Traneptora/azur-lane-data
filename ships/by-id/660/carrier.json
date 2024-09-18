@@ -4,18 +4,22 @@
     "ReloadUnkai": 136,
     "Slot1": {
         "MLB": {
+            "D": 3,
             "F": 3
         },
         "Retrofit": {
+            "D": 3,
             "F": 3
         }
     },
     "Slot2": {
         "MLB": {
-            "D": 2
+            "D": 2,
+            "T": 2
         },
         "Retrofit": {
-            "D": 2
+            "D": 2,
+            "T": 2
         }
     },
     "Slot3": {
