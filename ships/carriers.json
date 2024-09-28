@@ -226,6 +226,13 @@
             "dataJSON": "ships/by-id/30033/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30039",
+            "Name": "Houshou META",
+            "ShipID": "30039",
+            "carrierJSON": "ships/by-id/30039/carrier.json",
+            "dataJSON": "ships/by-id/30039/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20019",
             "Name": "Hakuryuu",
             "ShipID": "20019",

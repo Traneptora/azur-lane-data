@@ -1,0 +1,29 @@
+{
+    "Name": "Houshou META",
+    "Reload": 178,
+    "ReloadUnkai": 178,
+    "Slot1": {
+        "MLB": {
+            "N": 2
+        },
+        "Retrofit": {
+            "N": 2
+        }
+    },
+    "Slot2": {
+        "MLB": {
+            "F": 3
+        },
+        "Retrofit": {
+            "F": 3
+        }
+    },
+    "Slot3": {
+        "MLB": {
+            "T": 3
+        },
+        "Retrofit": {
+            "T": 3
+        }
+    }
+}
