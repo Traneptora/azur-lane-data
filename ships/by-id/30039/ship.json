@@ -34,7 +34,7 @@
     "ArtistPixiv": null,
     "ArtistTwitter": null,
     "CNName": "凤·META",
-    "Class": "Houshou META",
+    "Class": null,
     "ConstructTime": "META",
     "ConsumptionInitial": "7",
     "ConsumptionMax": "12",
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Light Aircraft Carrier",
-    "VA": null
+    "VA": "[[wikipedia:Chiaki Takahashi (actress)|Chiaki Takahashi]]"
 }
