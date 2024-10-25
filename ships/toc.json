@@ -4678,6 +4678,36 @@
             "Name": "Suzunami",
             "ShipID": "663",
             "dataJSON": "ships/by-id/663/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/664",
+            "Name": "Ganj-i-Sawai",
+            "ShipID": "664",
+            "dataJSON": "ships/by-id/664/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/665",
+            "Name": "Fancy",
+            "ShipID": "665",
+            "dataJSON": "ships/by-id/665/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/666",
+            "Name": "Amity",
+            "ShipID": "666",
+            "dataJSON": "ships/by-id/666/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/667",
+            "Name": "Portsmouth Adventure",
+            "ShipID": "667",
+            "dataJSON": "ships/by-id/667/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/668",
+            "Name": "Dolphin",
+            "ShipID": "668",
+            "dataJSON": "ships/by-id/668/ship.json"
         }
     ]
 }
