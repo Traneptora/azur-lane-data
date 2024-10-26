@@ -34,8 +34,8 @@
     "ArtistPixiv": null,
     "ArtistTwitter": null,
     "CNName": "朴茨茅斯冒险号",
-    "Class": "Portsmouth Adventure",
-    "ConstructTime": null,
+    "Class": null,
+    "ConstructTime": "00:28:14",
     "ConsumptionInitial": "2",
     "ConsumptionMax": "9",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Sailing Frigate (Vanguard)",
-    "VA": null
+    "VA": "[https://stardust-va.com/actor/ryouko-jyuni/ Ryouko Jyuni]"
 }

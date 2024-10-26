@@ -29,13 +29,13 @@
     "AirMax": "0",
     "Ammo": "0",
     "Armor": "Light",
-    "Artist": null,
+    "Artist": "お久しぶり",
     "ArtistLink": null,
-    "ArtistPixiv": null,
-    "ArtistTwitter": null,
+    "ArtistPixiv": "[https://www.pixiv.net/en/users/1079073 お久しぶり]",
+    "ArtistTwitter": "[https://twitter.com/imlllsn お久しぶり]",
     "CNName": "幻想号",
-    "Class": "Fancy",
-    "ConstructTime": null,
+    "Class": null,
+    "ConstructTime": "01:39:21",
     "ConsumptionInitial": "3",
     "ConsumptionMax": "11",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Sailing Frigate (Vanguard)",
-    "VA": null
+    "VA": "[https://twitter.com/re_re_tsubame Tsubame Yuzuki]"
 }

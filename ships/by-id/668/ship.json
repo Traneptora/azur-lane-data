@@ -34,8 +34,8 @@
     "ArtistPixiv": null,
     "ArtistTwitter": null,
     "CNName": "海豚号",
-    "Class": "Dolphin",
-    "ConstructTime": null,
+    "Class": null,
+    "ConstructTime": "Cannot be Constructed",
     "ConsumptionInitial": "2",
     "ConsumptionMax": "6",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Sailing Frigate (Submarine)",
-    "VA": null
+    "VA": "[https://www.imdb.com/name/nm11847638/ Asuka Shioiri]"
 }

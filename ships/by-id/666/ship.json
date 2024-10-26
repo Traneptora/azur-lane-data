@@ -29,13 +29,13 @@
     "AirMax": "0",
     "Ammo": "2",
     "Armor": "Light",
-    "Artist": null,
+    "Artist": "ミモザ",
     "ArtistLink": null,
-    "ArtistPixiv": null,
-    "ArtistTwitter": null,
+    "ArtistPixiv": "[https://www.pixiv.net/en/users/29811192 mimo]",
+    "ArtistTwitter": "[https://twitter.com/96mimo414 ミモザ]",
     "CNName": "和睦号",
-    "Class": "Amity",
-    "ConstructTime": null,
+    "Class": null,
+    "ConstructTime": "00:28:13",
     "ConsumptionInitial": "3",
     "ConsumptionMax": "7",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Sailing Frigate (Submarine)",
-    "VA": null
+    "VA": "[[wikipedia:Konomi Inagaki|Konomi Inagaki]]"
 }
