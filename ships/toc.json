@@ -380,6 +380,45 @@
             "dataJSON": "ships/by-id/10107/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10111",
+            "Name": "Lala Satalin Deviluke",
+            "ShipID": "10111",
+            "dataJSON": "ships/by-id/10111/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10112",
+            "Name": "Nana Astar Deviluke",
+            "ShipID": "10112",
+            "dataJSON": "ships/by-id/10112/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10113",
+            "Name": "Momo Belia Deviluke",
+            "ShipID": "10113",
+            "dataJSON": "ships/by-id/10113/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10114",
+            "Name": "Golden Darkness",
+            "ShipID": "10114",
+            "battleshipJSON": "ships/by-id/10114/battleship.json",
+            "dataJSON": "ships/by-id/10114/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10115",
+            "Name": "Haruna Sairenji",
+            "ShipID": "10115",
+            "battleshipJSON": "ships/by-id/10115/battleship.json",
+            "dataJSON": "ships/by-id/10115/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10116",
+            "Name": "Yui Kotegawa",
+            "ShipID": "10116",
+            "carrierJSON": "ships/by-id/10116/carrier.json",
+            "dataJSON": "ships/by-id/10116/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/Collab001",
             "Name": "Neptune (Neptunia)",
             "ShipID": "Collab001",
@@ -792,6 +831,13 @@
             "ShipID": "30039",
             "carrierJSON": "ships/by-id/30039/carrier.json",
             "dataJSON": "ships/by-id/30039/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/30040",
+            "Name": "Giulio Cesare META",
+            "ShipID": "30040",
+            "battleshipJSON": "ships/by-id/30040/battleship.json",
+            "dataJSON": "ships/by-id/30040/ship.json"
         },
         {
             "DataDir": "ships/by-id/20011",

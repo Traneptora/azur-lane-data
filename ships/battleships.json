@@ -93,6 +93,20 @@
             "dataJSON": "ships/by-id/10105/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10114",
+            "Name": "Golden Darkness",
+            "ShipID": "10114",
+            "battleshipJSON": "ships/by-id/10114/battleship.json",
+            "dataJSON": "ships/by-id/10114/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10115",
+            "Name": "Haruna Sairenji",
+            "ShipID": "10115",
+            "battleshipJSON": "ships/by-id/10115/battleship.json",
+            "dataJSON": "ships/by-id/10115/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/Collab044",
             "Name": "Super Gamer Kizuna AI",
             "ShipID": "Collab044",
@@ -182,6 +196,13 @@
             "ShipID": "30038",
             "battleshipJSON": "ships/by-id/30038/battleship.json",
             "dataJSON": "ships/by-id/30038/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/30040",
+            "Name": "Giulio Cesare META",
+            "ShipID": "30040",
+            "battleshipJSON": "ships/by-id/30040/battleship.json",
+            "dataJSON": "ships/by-id/30040/ship.json"
         },
         {
             "DataDir": "ships/by-id/20011",
