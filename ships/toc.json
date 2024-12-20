@@ -847,6 +847,12 @@
             "dataJSON": "ships/by-id/30041/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30042",
+            "Name": "Admiral Hipper META",
+            "ShipID": "30042",
+            "dataJSON": "ships/by-id/30042/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
@@ -4761,6 +4767,37 @@
             "Name": "Dolphin",
             "ShipID": "668",
             "dataJSON": "ships/by-id/668/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/669",
+            "Name": "Fritz Rumey",
+            "ShipID": "669",
+            "carrierJSON": "ships/by-id/669/carrier.json",
+            "dataJSON": "ships/by-id/669/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/670",
+            "Name": "Z52",
+            "ShipID": "670",
+            "dataJSON": "ships/by-id/670/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/671",
+            "Name": "Duisburg",
+            "ShipID": "671",
+            "dataJSON": "ships/by-id/671/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/672",
+            "Name": "Z9",
+            "ShipID": "672",
+            "dataJSON": "ships/by-id/672/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/673",
+            "Name": "Z11",
+            "ShipID": "673",
+            "dataJSON": "ships/by-id/673/ship.json"
         }
     ]
 }

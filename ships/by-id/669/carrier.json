@@ -1,0 +1,33 @@
+{
+    "Name": "Fritz Rumey",
+    "Reload": 145,
+    "ReloadUnkai": 145,
+    "Slot1": {
+        "MLB": {
+            "F": 4
+        },
+        "Retrofit": {
+            "F": 4
+        }
+    },
+    "Slot2": {
+        "MLB": {
+            "D": 4,
+            "F": 4,
+            "T": 4
+        },
+        "Retrofit": {
+            "D": 4,
+            "F": 4,
+            "T": 4
+        }
+    },
+    "Slot3": {
+        "MLB": {
+            "N": 1
+        },
+        "Retrofit": {
+            "N": 1
+        }
+    }
+}

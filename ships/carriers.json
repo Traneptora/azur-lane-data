@@ -845,6 +845,13 @@
             "ShipID": "660",
             "carrierJSON": "ships/by-id/660/carrier.json",
             "dataJSON": "ships/by-id/660/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/669",
+            "Name": "Fritz Rumey",
+            "ShipID": "669",
+            "carrierJSON": "ships/by-id/669/carrier.json",
+            "dataJSON": "ships/by-id/669/ship.json"
         }
     ]
 }
