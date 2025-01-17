@@ -4798,6 +4798,30 @@
             "Name": "Z11",
             "ShipID": "673",
             "dataJSON": "ships/by-id/673/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/674",
+            "Name": "Chien Wu",
+            "ShipID": "674",
+            "dataJSON": "ships/by-id/674/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/675",
+            "Name": "Hai Yung",
+            "ShipID": "675",
+            "dataJSON": "ships/by-id/675/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/676",
+            "Name": "Chang Feng",
+            "ShipID": "676",
+            "dataJSON": "ships/by-id/676/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/677",
+            "Name": "Fu Po",
+            "ShipID": "677",
+            "dataJSON": "ships/by-id/677/ship.json"
         }
     ]
 }
