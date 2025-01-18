@@ -35,7 +35,7 @@
     "ArtistTwitter": null,
     "CNName": "建武",
     "Class": "Chien Wu",
-    "ConstructTime": null,
+    "ConstructTime": "01:30:00",
     "ConsumptionInitial": "4",
     "ConsumptionMax": "12",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "243",
     "Type": "Heavy Cruiser",
-    "VA": null
+    "VA": "[[:wikipedia:Saku_Mizuno|Saku Mizuno]]"
 }

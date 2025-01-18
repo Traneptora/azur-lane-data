@@ -20095,7 +20095,7 @@
                 "Artist": "moon",
                 "ArtistLink": null,
                 "ArtistPixiv": "[https://www.pixiv.net/en/users/28733822 moon]",
-                "ArtistTwitter": "[https://twitter.com/sr33023302 moon]",
+                "ArtistTwitter": "[https://twitter.com/sr46635353 moon]",
                 "CNName": "华甲",
                 "Class": "Hwah Jah",
                 "ConstructTime": "02:10:00",
@@ -25289,7 +25289,7 @@
                 "ArtistPixiv": null,
                 "ArtistTwitter": "[https://twitter.com/0_0nys nys]",
                 "CNName": "飞云",
-                "Class": "Chang Feng",
+                "Class": "Fei Yuen",
                 "ConstructTime": "Cannot Be Constructed",
                 "ConsumptionInitial": "2",
                 "ConsumptionMax": "9",
@@ -28824,10 +28824,10 @@
                 "AirMax": "421",
                 "Ammo": "0",
                 "Armor": "Medium",
-                "Artist": null,
-                "ArtistLink": null,
-                "ArtistPixiv": null,
-                "ArtistTwitter": null,
+                "Artist": "股间少女",
+                "ArtistLink": "[https://www.weibo.com/u/5205759948 Gujianshaov]",
+                "ArtistPixiv": "[https://www.pixiv.net/member.php?id=12834728 Gujianshaov]",
+                "ArtistTwitter": "[https://twitter.com/gujianshaonv Gujianshaonv]",
                 "CNName": "鳐",
                 "Class": "Amagi(CV)",
                 "ConstructTime": "04:40:00",
@@ -30482,7 +30482,7 @@
                 "ArtistTwitter": null,
                 "CNName": "建武",
                 "Class": "Chien Wu",
-                "ConstructTime": null,
+                "ConstructTime": "01:30:00",
                 "ConsumptionInitial": "4",
                 "ConsumptionMax": "12",
                 "Eq1BaseKai": null,
@@ -30559,7 +30559,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "243",
                 "Type": "Heavy Cruiser",
-                "VA": null
+                "VA": "[[:wikipedia:Saku_Mizuno|Saku Mizuno]]"
             }
         },
         {
@@ -30594,13 +30594,13 @@
                 "AirMax": "0",
                 "Ammo": "0",
                 "Armor": "Medium",
-                "Artist": null,
+                "Artist": "ポップキュン(POPQN)",
                 "ArtistLink": null,
-                "ArtistPixiv": null,
-                "ArtistTwitter": null,
+                "ArtistPixiv": "[https://www.pixiv.net/users/1014350 ポップキュン(POPQN)]",
+                "ArtistTwitter": "[https://twitter.com/poppuqn ポップキュン(POPQN)]",
                 "CNName": "海容",
                 "Class": "Hai Yung",
-                "ConstructTime": null,
+                "ConstructTime": "00:40:00",
                 "ConsumptionInitial": "3",
                 "ConsumptionMax": "10",
                 "Eq1BaseKai": null,
@@ -30677,7 +30677,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "239",
                 "Type": "Light Cruiser",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm15222316/ Hinano Sakikawa]"
             }
         },
         {
@@ -30712,13 +30712,13 @@
                 "AirMax": "0",
                 "Ammo": "0",
                 "Armor": "Light",
-                "Artist": null,
+                "Artist": "nys",
                 "ArtistLink": null,
                 "ArtistPixiv": null,
-                "ArtistTwitter": null,
+                "ArtistTwitter": "[https://twitter.com/0_0nys nys]",
                 "CNName": "长风",
                 "Class": "Fei Yuen",
-                "ConstructTime": null,
+                "ConstructTime": "00:33:00",
                 "ConsumptionInitial": "2",
                 "ConsumptionMax": "9",
                 "Eq1BaseKai": null,
@@ -30795,7 +30795,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "205",
                 "Type": "Destroyer",
-                "VA": null
+                "VA": "[https://myanimelist.net/people/4183/Rie_Haduki Rie Haduki]"
             }
         },
         {
@@ -30830,13 +30830,13 @@
                 "AirMax": "0",
                 "Ammo": "0",
                 "Armor": "Light",
-                "Artist": null,
+                "Artist": "nys",
                 "ArtistLink": null,
                 "ArtistPixiv": null,
-                "ArtistTwitter": null,
+                "ArtistTwitter": "[https://twitter.com/0_0nys nys]",
                 "CNName": "伏波",
                 "Class": "Fei Yuen",
-                "ConstructTime": null,
+                "ConstructTime": "Cannot Be Constructed",
                 "ConsumptionInitial": "2",
                 "ConsumptionMax": "9",
                 "Eq1BaseKai": null,
@@ -30913,7 +30913,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "205",
                 "Type": "Destroyer",
-                "VA": null
+                "VA": "[https://myanimelist.net/people/4183/Rie_Haduki Rie Haduki]"
             }
         }
     ]

@@ -29,13 +29,13 @@
     "AirMax": "0",
     "Ammo": "0",
     "Armor": "Light",
-    "Artist": null,
+    "Artist": "nys",
     "ArtistLink": null,
     "ArtistPixiv": null,
-    "ArtistTwitter": null,
+    "ArtistTwitter": "[https://twitter.com/0_0nys nys]",
     "CNName": "长风",
     "Class": "Fei Yuen",
-    "ConstructTime": null,
+    "ConstructTime": "00:33:00",
     "ConsumptionInitial": "2",
     "ConsumptionMax": "9",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "205",
     "Type": "Destroyer",
-    "VA": null
+    "VA": "[https://myanimelist.net/people/4183/Rie_Haduki Rie Haduki]"
 }
