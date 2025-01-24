@@ -853,6 +853,12 @@
             "dataJSON": "ships/by-id/30042/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30043",
+            "Name": "Bolzano META",
+            "ShipID": "30043",
+            "dataJSON": "ships/by-id/30043/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
