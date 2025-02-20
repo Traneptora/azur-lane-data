@@ -13331,7 +13331,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "299",
                 "Type": "Destroyer",
-                "VA": "[[:wikipedia:Madoka_Asahina|Madoka Asahina]]"
+                "VA": null
             }
         },
         {
@@ -15337,7 +15337,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Aircraft Carrier",
-                "VA": "[[wikipedia:Aoi Yūki|Aoi Yuuki]]"
+                "VA": null
             }
         },
         {
