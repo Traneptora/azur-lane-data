@@ -205,6 +205,13 @@
             "dataJSON": "ships/by-id/30040/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30044",
+            "Name": "Andrea Doria META",
+            "ShipID": "30044",
+            "battleshipJSON": "ships/by-id/30044/battleship.json",
+            "dataJSON": "ships/by-id/30044/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
@@ -901,6 +908,13 @@
             "ShipID": "652",
             "battleshipJSON": "ships/by-id/652/battleship.json",
             "dataJSON": "ships/by-id/652/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/678",
+            "Name": "Raffaello",
+            "ShipID": "678",
+            "battleshipJSON": "ships/by-id/678/battleship.json",
+            "dataJSON": "ships/by-id/678/ship.json"
         }
     ]
 }

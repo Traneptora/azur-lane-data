@@ -859,6 +859,13 @@
             "dataJSON": "ships/by-id/30043/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30044",
+            "Name": "Andrea Doria META",
+            "ShipID": "30044",
+            "battleshipJSON": "ships/by-id/30044/battleship.json",
+            "dataJSON": "ships/by-id/30044/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
@@ -4828,6 +4835,31 @@
             "Name": "Fu Po",
             "ShipID": "677",
             "dataJSON": "ships/by-id/677/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/678",
+            "Name": "Raffaello",
+            "ShipID": "678",
+            "battleshipJSON": "ships/by-id/678/battleship.json",
+            "dataJSON": "ships/by-id/678/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/679",
+            "Name": "Maggiore Baracca",
+            "ShipID": "679",
+            "dataJSON": "ships/by-id/679/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/680",
+            "Name": "Giosuè Carducci",
+            "ShipID": "680",
+            "dataJSON": "ships/by-id/680/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/681",
+            "Name": "Bartolomeo Colleoni",
+            "ShipID": "681",
+            "dataJSON": "ships/by-id/681/ship.json"
         }
     ]
 }
