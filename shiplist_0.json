@@ -15726,12 +15726,12 @@
                 "AirMax": "395",
                 "Ammo": "0",
                 "Armor": "Medium",
-                "Artist": null,
-                "ArtistLink": null,
-                "ArtistPixiv": null,
-                "ArtistTwitter": null,
+                "Artist": "alchemaniac",
+                "ArtistLink": "[https://gilangandrian.com/ alchemaniac]",
+                "ArtistPixiv": "[https://www.pixiv.net/en/users/3639896 alchemaniac]",
+                "ArtistTwitter": "[https://twitter.com/alchehehe alchemaniac]",
                 "CNName": "大黄蜂·META",
-                "Class": "Hornet META",
+                "Class": null,
                 "ConstructTime": "META",
                 "ConsumptionInitial": "8",
                 "ConsumptionMax": "14",
@@ -15809,7 +15809,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Aircraft Carrier",
-                "VA": null
+                "VA": "[[:wikipedia:Nozomi_Yamamoto|Nozomi Yamamoto]]"
             }
         },
         {
