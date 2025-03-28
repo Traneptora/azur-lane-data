@@ -873,6 +873,13 @@
             "dataJSON": "ships/by-id/30045/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30046",
+            "Name": "Nevada META",
+            "ShipID": "30046",
+            "battleshipJSON": "ships/by-id/30046/battleship.json",
+            "dataJSON": "ships/by-id/30046/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
@@ -4867,6 +4874,25 @@
             "Name": "Bartolomeo Colleoni",
             "ShipID": "681",
             "dataJSON": "ships/by-id/681/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/682",
+            "Name": "Franklin",
+            "ShipID": "682",
+            "carrierJSON": "ships/by-id/682/carrier.json",
+            "dataJSON": "ships/by-id/682/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/683",
+            "Name": "Santa Fe",
+            "ShipID": "683",
+            "dataJSON": "ships/by-id/683/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/684",
+            "Name": "Miller",
+            "ShipID": "684",
+            "dataJSON": "ships/by-id/684/ship.json"
         }
     ]
 }

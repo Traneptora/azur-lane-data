@@ -859,6 +859,13 @@
             "ShipID": "669",
             "carrierJSON": "ships/by-id/669/carrier.json",
             "dataJSON": "ships/by-id/669/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/682",
+            "Name": "Franklin",
+            "ShipID": "682",
+            "carrierJSON": "ships/by-id/682/carrier.json",
+            "dataJSON": "ships/by-id/682/ship.json"
         }
     ]
 }

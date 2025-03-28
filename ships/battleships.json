@@ -212,6 +212,13 @@
             "dataJSON": "ships/by-id/30044/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30046",
+            "Name": "Nevada META",
+            "ShipID": "30046",
+            "battleshipJSON": "ships/by-id/30046/battleship.json",
+            "dataJSON": "ships/by-id/30046/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
