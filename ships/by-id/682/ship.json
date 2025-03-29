@@ -29,13 +29,13 @@
     "AirMax": "412",
     "Ammo": "0",
     "Armor": "Medium",
-    "Artist": null,
+    "Artist": "Senri GAN",
     "ArtistLink": null,
-    "ArtistPixiv": null,
-    "ArtistTwitter": null,
+    "ArtistPixiv": "[https://www.pixiv.net/users/1294530 千里GAN]",
+    "ArtistTwitter": "[https://twitter.com/oshirase_gan 千里GAN]",
     "CNName": "富兰克林",
     "Class": "Essex",
-    "ConstructTime": null,
+    "ConstructTime": "04:25:00",
     "ConsumptionInitial": "4",
     "ConsumptionMax": "13",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Aircraft Carrier",
-    "VA": null
+    "VA": "[[:wikipedia:Anna_Nagase|Anna Nagase]]"
 }

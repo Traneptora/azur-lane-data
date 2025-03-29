@@ -15844,12 +15844,12 @@
                 "AirMax": "0",
                 "Ammo": "0",
                 "Armor": "Heavy",
-                "Artist": null,
-                "ArtistLink": null,
-                "ArtistPixiv": null,
-                "ArtistTwitter": null,
+                "Artist": "alchemaniac",
+                "ArtistLink": "[https://gilangandrian.com/ alchemaniac]",
+                "ArtistPixiv": "[https://www.pixiv.net/en/users/3639896 alchemaniac]",
+                "ArtistTwitter": "[https://twitter.com/alchehehe alchemaniac]",
                 "CNName": "内华达·META",
-                "Class": "Nevada META",
+                "Class": null,
                 "ConstructTime": "META",
                 "ConsumptionInitial": "8",
                 "ConsumptionMax": "15",
@@ -15927,7 +15927,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Battleship",
-                "VA": null
+                "VA": "[[:wikipedia:Yumi_Uchiyama|Yumi Uchiyama]]"
             }
         },
         {

@@ -35,7 +35,7 @@
     "ArtistTwitter": null,
     "CNName": "米勒",
     "Class": "Fletcher",
-    "ConstructTime": null,
+    "ConstructTime": "00:28:00",
     "ConsumptionInitial": "2",
     "ConsumptionMax": "9",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "270",
     "Type": "Destroyer",
-    "VA": null
+    "VA": "[https://www.imdb.com/name/nm15996544/ Azusa Tachibana]"
 }
