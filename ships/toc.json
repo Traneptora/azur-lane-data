@@ -122,6 +122,12 @@
             "dataJSON": "ships/by-id/647/ship.json"
         },
         {
+            "DataDir": "ships/by-id/693",
+            "Name": "Little Anchorage",
+            "ShipID": "693",
+            "dataJSON": "ships/by-id/693/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/10021",
             "Name": "22",
             "ShipID": "10021",
@@ -4893,6 +4899,31 @@
             "Name": "Miller",
             "ShipID": "684",
             "dataJSON": "ships/by-id/684/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/685",
+            "Name": "Kazan",
+            "ShipID": "685",
+            "battleshipJSON": "ships/by-id/685/battleship.json",
+            "dataJSON": "ships/by-id/685/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/686",
+            "Name": "De Zeven Provinciën",
+            "ShipID": "686",
+            "dataJSON": "ships/by-id/686/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/687",
+            "Name": "Evertsen",
+            "ShipID": "687",
+            "dataJSON": "ships/by-id/687/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/688",
+            "Name": "Oleg",
+            "ShipID": "688",
+            "dataJSON": "ships/by-id/688/ship.json"
         }
     ]
 }

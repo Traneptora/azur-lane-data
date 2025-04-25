@@ -922,6 +922,13 @@
             "ShipID": "678",
             "battleshipJSON": "ships/by-id/678/battleship.json",
             "dataJSON": "ships/by-id/678/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/685",
+            "Name": "Kazan",
+            "ShipID": "685",
+            "battleshipJSON": "ships/by-id/685/battleship.json",
+            "dataJSON": "ships/by-id/685/ship.json"
         }
     ]
 }
