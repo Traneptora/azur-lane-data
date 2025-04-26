@@ -32369,7 +32369,7 @@
                 "ArtistPixiv": null,
                 "ArtistTwitter": null,
                 "CNName": "喀山",
-                "Class": "Kazan",
+                "Class": "Project 21",
                 "ConstructTime": "05:50:00",
                 "ConsumptionInitial": "5",
                 "ConsumptionMax": "15",
@@ -32683,7 +32683,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "328",
                 "Type": "Destroyer",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm13008653/ Haruna Mikawa]"
             }
         },
         {
@@ -32801,7 +32801,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "134",
                 "Type": "Light Cruiser",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm4379190/ Mami Uchida]"
             }
         }
     ]
