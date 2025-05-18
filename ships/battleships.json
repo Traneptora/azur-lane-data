@@ -659,7 +659,7 @@
         },
         {
             "DataDir": "ships/by-id/368",
-            "Name": "Kaga (Battleship)",
+            "Name": "Kaga(BB)",
             "ShipID": "368",
             "battleshipJSON": "ships/by-id/368/battleship.json",
             "dataJSON": "ships/by-id/368/ship.json"
