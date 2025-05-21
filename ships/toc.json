@@ -886,6 +886,13 @@
             "dataJSON": "ships/by-id/30046/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30048",
+            "Name": "Glorious META",
+            "ShipID": "30048",
+            "carrierJSON": "ships/by-id/30048/carrier.json",
+            "dataJSON": "ships/by-id/30048/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
@@ -1860,6 +1867,13 @@
             "ShipID": "137",
             "battleshipJSON": "ships/by-id/137/battleship.json",
             "dataJSON": "ships/by-id/137/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/138",
+            "Name": "Lion",
+            "ShipID": "138",
+            "battleshipJSON": "ships/by-id/138/battleship.json",
+            "dataJSON": "ships/by-id/138/ship.json"
         },
         {
             "DataDir": "ships/by-id/140",
@@ -4924,6 +4938,30 @@
             "Name": "Oleg",
             "ShipID": "688",
             "dataJSON": "ships/by-id/688/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/689",
+            "Name": "Trafalgar",
+            "ShipID": "689",
+            "dataJSON": "ships/by-id/689/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/690",
+            "Name": "Cleopatra",
+            "ShipID": "690",
+            "dataJSON": "ships/by-id/690/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/691",
+            "Name": "Gallant",
+            "ShipID": "691",
+            "dataJSON": "ships/by-id/691/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/692",
+            "Name": "Trinidad",
+            "ShipID": "692",
+            "dataJSON": "ships/by-id/692/ship.json"
         }
     ]
 }
