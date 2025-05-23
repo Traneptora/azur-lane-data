@@ -34,7 +34,7 @@
     "ArtistPixiv": null,
     "ArtistTwitter": null,
     "CNName": "特拉法尔加",
-    "Class": "战斗级",
+    "Class": "Battle",
     "ConstructTime": "Cannot Be Constructed",
     "ConsumptionInitial": "7",
     "ConsumptionMax": "12",
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "389",
     "Type": "Destroyer",
-    "VA": null
+    "VA": "[[wikipedia:Madoka Yonezawa|Madoka Yonezawa]]"
 }

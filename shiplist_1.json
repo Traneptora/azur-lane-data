@@ -32738,7 +32738,7 @@
                 "Eq2EffInit": "130%",
                 "Eq2EffInitKai": null,
                 "Eq2EffInitMax": "135%",
-                "Eq2Type": "Torpedoes",
+                "Eq2Type": "Torpedoes/Anti-Air Guns (MLB)",
                 "Eq3BaseKai": null,
                 "Eq3BaseMax": "2",
                 "Eq3EffInit": "115%",
@@ -33077,7 +33077,7 @@
                 "ArtistPixiv": null,
                 "ArtistTwitter": null,
                 "CNName": "特拉法尔加",
-                "Class": "战斗级",
+                "Class": "Battle",
                 "ConstructTime": "Cannot Be Constructed",
                 "ConsumptionInitial": "7",
                 "ConsumptionMax": "12",
@@ -33155,7 +33155,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "389",
                 "Type": "Destroyer",
-                "VA": null
+                "VA": "[[wikipedia:Madoka Yonezawa|Madoka Yonezawa]]"
             }
         },
         {
@@ -33190,13 +33190,13 @@
                 "AirMax": "0",
                 "Ammo": "0",
                 "Armor": "Light",
-                "Artist": null,
+                "Artist": "ポップキュン(POPQN)",
                 "ArtistLink": null,
-                "ArtistPixiv": null,
-                "ArtistTwitter": null,
+                "ArtistPixiv": "[https://www.pixiv.net/users/1014350 ポップキュン(POPQN)]",
+                "ArtistTwitter": "[https://twitter.com/poppuqn ポップキュン(POPQN)]",
                 "CNName": "克利奥佩特拉",
                 "Class": "Dido",
-                "ConstructTime": null,
+                "ConstructTime": "00:55:00",
                 "ConsumptionInitial": "3",
                 "ConsumptionMax": "11",
                 "Eq1BaseKai": null,
@@ -33273,7 +33273,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "172",
                 "Type": "Light Cruiser",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm10631704/ Yuri Usui]"
             }
         },
         {
@@ -33391,7 +33391,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "352",
                 "Type": "Destroyer",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm7654892/ Mai Kanazawa]"
             }
         },
         {
@@ -33431,8 +33431,8 @@
                 "ArtistPixiv": null,
                 "ArtistTwitter": null,
                 "CNName": "特立尼达",
-                "Class": "Fiji",
-                "ConstructTime": null,
+                "Class": "Crown Colony",
+                "ConstructTime": "Cannot be Constructed",
                 "ConsumptionInitial": "3",
                 "ConsumptionMax": "10",
                 "Eq1BaseKai": null,
@@ -33509,7 +33509,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "268",
                 "Type": "Light Cruiser",
-                "VA": null
+                "VA": "[https://www.imdb.com/name/nm13755739/ Tsugumi Sakuragi]"
             }
         }
     ]

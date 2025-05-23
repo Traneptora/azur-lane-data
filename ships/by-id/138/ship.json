@@ -34,7 +34,7 @@
     "ArtistPixiv": null,
     "ArtistTwitter": null,
     "CNName": "狮",
-    "Class": "狮级",
+    "Class": "Lion",
     "ConstructTime": "06:20:00",
     "ConsumptionInitial": "9",
     "ConsumptionMax": "17",
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Battleship",
-    "VA": null
+    "VA": "[[wikipedia:Saori Ōnishi|Saori Onishi]]"
 }

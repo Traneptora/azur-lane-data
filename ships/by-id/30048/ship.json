@@ -29,12 +29,12 @@
     "AirMax": "377",
     "Ammo": "0",
     "Armor": "Medium",
-    "Artist": null,
-    "ArtistLink": null,
-    "ArtistPixiv": null,
-    "ArtistTwitter": null,
+    "Artist": "alchemaniac",
+    "ArtistLink": "[https://gilangandrian.com/ alchemaniac]",
+    "ArtistPixiv": "[https://www.pixiv.net/en/users/3639896 alchemaniac]",
+    "ArtistTwitter": "[https://twitter.com/alchehehe alchemaniac]",
     "CNName": "光荣·META",
-    "Class": "光荣·META",
+    "Class": null,
     "ConstructTime": "03:50:00",
     "ConsumptionInitial": "8",
     "ConsumptionMax": "14",
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Aircraft Carrier",
-    "VA": null
+    "VA": "[[:wikipedia:Noriko_Shitaya|Noriko Shitaya]]"
 }
