@@ -121,6 +121,13 @@
             "dataJSON": "ships/by-id/10116/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10122",
+            "Name": "DEAD MASTER",
+            "ShipID": "10122",
+            "carrierJSON": "ships/by-id/10122/carrier.json",
+            "dataJSON": "ships/by-id/10122/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/Collab004",
             "Name": "Vert",
             "ShipID": "Collab004",
