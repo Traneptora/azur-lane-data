@@ -2280,7 +2280,7 @@
                 "ArtistTwitter": null,
                 "CNName": "小埃格妮丝",
                 "Class": "Ägir",
-                "ConstructTime": null,
+                "ConstructTime": "Cannot Be Constructed",
                 "ConsumptionInitial": "3",
                 "ConsumptionMax": "11",
                 "Eq1BaseKai": null,
@@ -7826,7 +7826,7 @@
                 "ArtistTwitter": null,
                 "CNName": "BLACK★ROCK SHOOTER",
                 "Class": null,
-                "ConstructTime": null,
+                "ConstructTime": "Cannot Be Constructed",
                 "ConsumptionInitial": "5",
                 "ConsumptionMax": "15",
                 "Eq1BaseKai": null,
@@ -7903,7 +7903,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Battlecruiser",
-                "VA": null
+                "VA": "[[:wikipedia:Kana_Hanazawa|Kana Hanazawa]]"
             }
         },
         {
@@ -7944,7 +7944,7 @@
                 "ArtistTwitter": null,
                 "CNName": "DEAD MASTER",
                 "Class": null,
-                "ConstructTime": null,
+                "ConstructTime": "Cannot Be Constructed",
                 "ConsumptionInitial": "4",
                 "ConsumptionMax": "13",
                 "Eq1BaseKai": null,
@@ -8021,7 +8021,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Aircraft Carrier",
-                "VA": null
+                "VA": "[[:wikipedia:Miyuki_Sawashiro|Miyuki Sawashiro]]"
             }
         },
         {

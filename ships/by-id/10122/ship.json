@@ -35,7 +35,7 @@
     "ArtistTwitter": null,
     "CNName": "DEAD MASTER",
     "Class": null,
-    "ConstructTime": null,
+    "ConstructTime": "Cannot Be Constructed",
     "ConsumptionInitial": "4",
     "ConsumptionMax": "13",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Aircraft Carrier",
-    "VA": null
+    "VA": "[[:wikipedia:Miyuki_Sawashiro|Miyuki Sawashiro]]"
 }

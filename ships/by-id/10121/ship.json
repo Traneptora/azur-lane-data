@@ -35,7 +35,7 @@
     "ArtistTwitter": null,
     "CNName": "BLACK★ROCK SHOOTER",
     "Class": null,
-    "ConstructTime": null,
+    "ConstructTime": "Cannot Be Constructed",
     "ConsumptionInitial": "5",
     "ConsumptionMax": "15",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Battlecruiser",
-    "VA": null
+    "VA": "[[:wikipedia:Kana_Hanazawa|Kana Hanazawa]]"
 }
