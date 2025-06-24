@@ -35,7 +35,7 @@
     "ArtistTwitter": "[https://twitter.com/0_0nys nys]",
     "CNName": "德文郡",
     "Class": "County",
-    "ConstructTime": "Cannot be Constructed",
+    "ConstructTime": "Cannot be constructed",
     "ConsumptionInitial": "3",
     "ConsumptionMax": "11",
     "Eq1BaseKai": null,
