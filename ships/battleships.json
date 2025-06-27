@@ -943,6 +943,13 @@
             "ShipID": "685",
             "battleshipJSON": "ships/by-id/685/battleship.json",
             "dataJSON": "ships/by-id/685/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/694",
+            "Name": "Admiral Zenker",
+            "ShipID": "694",
+            "battleshipJSON": "ships/by-id/694/battleship.json",
+            "dataJSON": "ships/by-id/694/ship.json"
         }
     ]
 }

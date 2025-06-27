@@ -4994,6 +4994,25 @@
             "Name": "Trinidad",
             "ShipID": "692",
             "dataJSON": "ships/by-id/692/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/694",
+            "Name": "Admiral Zenker",
+            "ShipID": "694",
+            "battleshipJSON": "ships/by-id/694/battleship.json",
+            "dataJSON": "ships/by-id/694/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/695",
+            "Name": "U-552",
+            "ShipID": "695",
+            "dataJSON": "ships/by-id/695/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/696",
+            "Name": "Z13",
+            "ShipID": "696",
+            "dataJSON": "ships/by-id/696/ship.json"
         }
     ]
 }
