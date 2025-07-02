@@ -134,6 +134,56 @@
             "dataJSON": "ships/by-id/697/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10001",
+            "Name": "Neptune (Neptunia)",
+            "ShipID": "10001",
+            "dataJSON": "ships/by-id/10001/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10002",
+            "Name": "Noire",
+            "ShipID": "10002",
+            "dataJSON": "ships/by-id/10002/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10003",
+            "Name": "Blanc",
+            "ShipID": "10003",
+            "dataJSON": "ships/by-id/10003/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10004",
+            "Name": "Vert",
+            "ShipID": "10004",
+            "carrierJSON": "ships/by-id/10004/carrier.json",
+            "dataJSON": "ships/by-id/10004/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10005",
+            "Name": "Purple Heart",
+            "ShipID": "10005",
+            "dataJSON": "ships/by-id/10005/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10006",
+            "Name": "Black Heart",
+            "ShipID": "10006",
+            "dataJSON": "ships/by-id/10006/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10007",
+            "Name": "White Heart",
+            "ShipID": "10007",
+            "dataJSON": "ships/by-id/10007/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10008",
+            "Name": "Green Heart",
+            "ShipID": "10008",
+            "carrierJSON": "ships/by-id/10008/carrier.json",
+            "dataJSON": "ships/by-id/10008/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/10021",
             "Name": "22",
             "ShipID": "10021",
@@ -144,6 +194,116 @@
             "Name": "33",
             "ShipID": "10022",
             "dataJSON": "ships/by-id/10022/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10031",
+            "Name": "Kuon",
+            "ShipID": "10031",
+            "dataJSON": "ships/by-id/10031/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10032",
+            "Name": "Nekone",
+            "ShipID": "10032",
+            "dataJSON": "ships/by-id/10032/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10033",
+            "Name": "Rurutie",
+            "ShipID": "10033",
+            "dataJSON": "ships/by-id/10033/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10034",
+            "Name": "Uruuru",
+            "ShipID": "10034",
+            "carrierJSON": "ships/by-id/10034/carrier.json",
+            "dataJSON": "ships/by-id/10034/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10035",
+            "Name": "Saraana",
+            "ShipID": "10035",
+            "carrierJSON": "ships/by-id/10035/carrier.json",
+            "dataJSON": "ships/by-id/10035/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10036",
+            "Name": "Fumiruiru",
+            "ShipID": "10036",
+            "carrierJSON": "ships/by-id/10036/carrier.json",
+            "dataJSON": "ships/by-id/10036/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10041",
+            "Name": "Kizuna AI",
+            "ShipID": "10041",
+            "dataJSON": "ships/by-id/10041/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10042",
+            "Name": "Elegant Kizuna AI",
+            "ShipID": "10042",
+            "dataJSON": "ships/by-id/10042/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10043",
+            "Name": "Anniversary Kizuna AI",
+            "ShipID": "10043",
+            "carrierJSON": "ships/by-id/10043/carrier.json",
+            "dataJSON": "ships/by-id/10043/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10044",
+            "Name": "Super Gamer Kizuna AI",
+            "ShipID": "10044",
+            "battleshipJSON": "ships/by-id/10044/battleship.json",
+            "dataJSON": "ships/by-id/10044/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10051",
+            "Name": "Shirakami Fubuki",
+            "ShipID": "10051",
+            "dataJSON": "ships/by-id/10051/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10052",
+            "Name": "Tokino Sora",
+            "ShipID": "10052",
+            "carrierJSON": "ships/by-id/10052/carrier.json",
+            "dataJSON": "ships/by-id/10052/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10053",
+            "Name": "Minato Aqua",
+            "ShipID": "10053",
+            "dataJSON": "ships/by-id/10053/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10054",
+            "Name": "Natsuiro Matsuri",
+            "ShipID": "10054",
+            "dataJSON": "ships/by-id/10054/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10055",
+            "Name": "Nakiri Ayame",
+            "ShipID": "10055",
+            "dataJSON": "ships/by-id/10055/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10056",
+            "Name": "Murasaki Shion",
+            "ShipID": "10056",
+            "carrierJSON": "ships/by-id/10056/carrier.json",
+            "dataJSON": "ships/by-id/10056/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10057",
+            "Name": "Ookami Mio",
+            "ShipID": "10057",
+            "carrierJSON": "ships/by-id/10057/carrier.json",
+            "dataJSON": "ships/by-id/10057/ship.json"
         },
         {
             "DataDir": "ships/by-id/10061",
@@ -443,166 +603,6 @@
             "ShipID": "10122",
             "carrierJSON": "ships/by-id/10122/carrier.json",
             "dataJSON": "ships/by-id/10122/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab001",
-            "Name": "Neptune (Neptunia)",
-            "ShipID": "Collab001",
-            "dataJSON": "ships/by-id/Collab001/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab002",
-            "Name": "Noire",
-            "ShipID": "Collab002",
-            "dataJSON": "ships/by-id/Collab002/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab003",
-            "Name": "Blanc",
-            "ShipID": "Collab003",
-            "dataJSON": "ships/by-id/Collab003/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab004",
-            "Name": "Vert",
-            "ShipID": "Collab004",
-            "carrierJSON": "ships/by-id/Collab004/carrier.json",
-            "dataJSON": "ships/by-id/Collab004/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab005",
-            "Name": "Purple Heart",
-            "ShipID": "Collab005",
-            "dataJSON": "ships/by-id/Collab005/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab006",
-            "Name": "Black Heart",
-            "ShipID": "Collab006",
-            "dataJSON": "ships/by-id/Collab006/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab007",
-            "Name": "White Heart",
-            "ShipID": "Collab007",
-            "dataJSON": "ships/by-id/Collab007/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab008",
-            "Name": "Green Heart",
-            "ShipID": "Collab008",
-            "carrierJSON": "ships/by-id/Collab008/carrier.json",
-            "dataJSON": "ships/by-id/Collab008/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab031",
-            "Name": "Kuon",
-            "ShipID": "Collab031",
-            "dataJSON": "ships/by-id/Collab031/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab032",
-            "Name": "Nekone",
-            "ShipID": "Collab032",
-            "dataJSON": "ships/by-id/Collab032/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab033",
-            "Name": "Rurutie",
-            "ShipID": "Collab033",
-            "dataJSON": "ships/by-id/Collab033/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab034",
-            "Name": "Uruuru",
-            "ShipID": "Collab034",
-            "carrierJSON": "ships/by-id/Collab034/carrier.json",
-            "dataJSON": "ships/by-id/Collab034/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab035",
-            "Name": "Saraana",
-            "ShipID": "Collab035",
-            "carrierJSON": "ships/by-id/Collab035/carrier.json",
-            "dataJSON": "ships/by-id/Collab035/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab036",
-            "Name": "Fumiruiru",
-            "ShipID": "Collab036",
-            "carrierJSON": "ships/by-id/Collab036/carrier.json",
-            "dataJSON": "ships/by-id/Collab036/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab041",
-            "Name": "Kizuna AI",
-            "ShipID": "Collab041",
-            "dataJSON": "ships/by-id/Collab041/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab042",
-            "Name": "Elegant Kizuna AI",
-            "ShipID": "Collab042",
-            "dataJSON": "ships/by-id/Collab042/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab043",
-            "Name": "Anniversary Kizuna AI",
-            "ShipID": "Collab043",
-            "carrierJSON": "ships/by-id/Collab043/carrier.json",
-            "dataJSON": "ships/by-id/Collab043/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab044",
-            "Name": "Super Gamer Kizuna AI",
-            "ShipID": "Collab044",
-            "battleshipJSON": "ships/by-id/Collab044/battleship.json",
-            "dataJSON": "ships/by-id/Collab044/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab051",
-            "Name": "Shirakami Fubuki",
-            "ShipID": "Collab051",
-            "dataJSON": "ships/by-id/Collab051/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab052",
-            "Name": "Tokino Sora",
-            "ShipID": "Collab052",
-            "carrierJSON": "ships/by-id/Collab052/carrier.json",
-            "dataJSON": "ships/by-id/Collab052/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab053",
-            "Name": "Minato Aqua",
-            "ShipID": "Collab053",
-            "dataJSON": "ships/by-id/Collab053/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab054",
-            "Name": "Natsuiro Matsuri",
-            "ShipID": "Collab054",
-            "dataJSON": "ships/by-id/Collab054/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab055",
-            "Name": "Nakiri Ayame",
-            "ShipID": "Collab055",
-            "dataJSON": "ships/by-id/Collab055/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab056",
-            "Name": "Murasaki Shion",
-            "ShipID": "Collab056",
-            "carrierJSON": "ships/by-id/Collab056/carrier.json",
-            "dataJSON": "ships/by-id/Collab056/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab057",
-            "Name": "Ookami Mio",
-            "ShipID": "Collab057",
-            "carrierJSON": "ships/by-id/Collab057/carrier.json",
-            "dataJSON": "ships/by-id/Collab057/ship.json"
         },
         {
             "DataDir": "ships/by-id/30001",
@@ -925,11 +925,119 @@
             "dataJSON": "ships/by-id/30049/ship.json"
         },
         {
+            "DataDir": "ships/by-id/20001",
+            "Name": "Neptune",
+            "ShipID": "20001",
+            "dataJSON": "ships/by-id/20001/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20002",
+            "Name": "Monarch",
+            "ShipID": "20002",
+            "battleshipJSON": "ships/by-id/20002/battleship.json",
+            "dataJSON": "ships/by-id/20002/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20003",
+            "Name": "Ibuki",
+            "ShipID": "20003",
+            "dataJSON": "ships/by-id/20003/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20004",
+            "Name": "Izumo",
+            "ShipID": "20004",
+            "battleshipJSON": "ships/by-id/20004/battleship.json",
+            "dataJSON": "ships/by-id/20004/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20005",
+            "Name": "Roon",
+            "ShipID": "20005",
+            "dataJSON": "ships/by-id/20005/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20006",
+            "Name": "Saint Louis",
+            "ShipID": "20006",
+            "dataJSON": "ships/by-id/20006/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20007",
+            "Name": "Seattle",
+            "ShipID": "20007",
+            "dataJSON": "ships/by-id/20007/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20008",
+            "Name": "Georgia",
+            "ShipID": "20008",
+            "battleshipJSON": "ships/by-id/20008/battleship.json",
+            "dataJSON": "ships/by-id/20008/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20009",
+            "Name": "Kitakaze",
+            "ShipID": "20009",
+            "dataJSON": "ships/by-id/20009/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20010",
+            "Name": "Azuma",
+            "ShipID": "20010",
+            "dataJSON": "ships/by-id/20010/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
             "battleshipJSON": "ships/by-id/20011/battleship.json",
             "dataJSON": "ships/by-id/20011/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20012",
+            "Name": "Gascogne",
+            "ShipID": "20012",
+            "battleshipJSON": "ships/by-id/20012/battleship.json",
+            "dataJSON": "ships/by-id/20012/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20013",
+            "Name": "Cheshire",
+            "ShipID": "20013",
+            "dataJSON": "ships/by-id/20013/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20014",
+            "Name": "Drake",
+            "ShipID": "20014",
+            "dataJSON": "ships/by-id/20014/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20015",
+            "Name": "Mainz",
+            "ShipID": "20015",
+            "dataJSON": "ships/by-id/20015/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20016",
+            "Name": "Odin",
+            "ShipID": "20016",
+            "battleshipJSON": "ships/by-id/20016/battleship.json",
+            "dataJSON": "ships/by-id/20016/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20017",
+            "Name": "Champagne",
+            "ShipID": "20017",
+            "battleshipJSON": "ships/by-id/20017/battleship.json",
+            "dataJSON": "ships/by-id/20017/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20018",
+            "Name": "Anchorage",
+            "ShipID": "20018",
+            "dataJSON": "ships/by-id/20018/ship.json"
         },
         {
             "DataDir": "ships/by-id/20019",
@@ -943,6 +1051,20 @@
             "Name": "Ägir",
             "ShipID": "20020",
             "dataJSON": "ships/by-id/20020/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20021",
+            "Name": "August von Parseval",
+            "ShipID": "20021",
+            "carrierJSON": "ships/by-id/20021/carrier.json",
+            "dataJSON": "ships/by-id/20021/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20022",
+            "Name": "Marco Polo",
+            "ShipID": "20022",
+            "battleshipJSON": "ships/by-id/20022/battleship.json",
+            "dataJSON": "ships/by-id/20022/ship.json"
         },
         {
             "DataDir": "ships/by-id/20023",
@@ -1040,128 +1162,6 @@
             "Name": "Bayard",
             "ShipID": "20037",
             "dataJSON": "ships/by-id/20037/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan001",
-            "Name": "Neptune",
-            "ShipID": "Plan001",
-            "dataJSON": "ships/by-id/Plan001/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan002",
-            "Name": "Monarch",
-            "ShipID": "Plan002",
-            "battleshipJSON": "ships/by-id/Plan002/battleship.json",
-            "dataJSON": "ships/by-id/Plan002/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan003",
-            "Name": "Ibuki",
-            "ShipID": "Plan003",
-            "dataJSON": "ships/by-id/Plan003/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan004",
-            "Name": "Izumo",
-            "ShipID": "Plan004",
-            "battleshipJSON": "ships/by-id/Plan004/battleship.json",
-            "dataJSON": "ships/by-id/Plan004/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan005",
-            "Name": "Roon",
-            "ShipID": "Plan005",
-            "dataJSON": "ships/by-id/Plan005/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan006",
-            "Name": "Saint Louis",
-            "ShipID": "Plan006",
-            "dataJSON": "ships/by-id/Plan006/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan007",
-            "Name": "Seattle",
-            "ShipID": "Plan007",
-            "dataJSON": "ships/by-id/Plan007/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan008",
-            "Name": "Georgia",
-            "ShipID": "Plan008",
-            "battleshipJSON": "ships/by-id/Plan008/battleship.json",
-            "dataJSON": "ships/by-id/Plan008/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan009",
-            "Name": "Kitakaze",
-            "ShipID": "Plan009",
-            "dataJSON": "ships/by-id/Plan009/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan010",
-            "Name": "Azuma",
-            "ShipID": "Plan010",
-            "dataJSON": "ships/by-id/Plan010/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan012",
-            "Name": "Gascogne",
-            "ShipID": "Plan012",
-            "battleshipJSON": "ships/by-id/Plan012/battleship.json",
-            "dataJSON": "ships/by-id/Plan012/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan013",
-            "Name": "Cheshire",
-            "ShipID": "Plan013",
-            "dataJSON": "ships/by-id/Plan013/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan014",
-            "Name": "Drake",
-            "ShipID": "Plan014",
-            "dataJSON": "ships/by-id/Plan014/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan015",
-            "Name": "Mainz",
-            "ShipID": "Plan015",
-            "dataJSON": "ships/by-id/Plan015/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan016",
-            "Name": "Odin",
-            "ShipID": "Plan016",
-            "battleshipJSON": "ships/by-id/Plan016/battleship.json",
-            "dataJSON": "ships/by-id/Plan016/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan017",
-            "Name": "Champagne",
-            "ShipID": "Plan017",
-            "battleshipJSON": "ships/by-id/Plan017/battleship.json",
-            "dataJSON": "ships/by-id/Plan017/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan018",
-            "Name": "Anchorage",
-            "ShipID": "Plan018",
-            "dataJSON": "ships/by-id/Plan018/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan021",
-            "Name": "August von Parseval",
-            "ShipID": "Plan021",
-            "carrierJSON": "ships/by-id/Plan021/carrier.json",
-            "dataJSON": "ships/by-id/Plan021/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan022",
-            "Name": "Marco Polo",
-            "ShipID": "Plan022",
-            "battleshipJSON": "ships/by-id/Plan022/battleship.json",
-            "dataJSON": "ships/by-id/Plan022/ship.json"
         },
         {
             "DataDir": "ships/by-id/001",

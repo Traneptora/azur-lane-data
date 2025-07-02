@@ -100,7 +100,7 @@
     "StatBonus120Type": "Evasion",
     "StatBonusCollect": "1",
     "StatBonusCollectType": "Health",
-    "SubtypeRetro": null,
+    "SubtypeRetro": "",
     "TechPoint120": "8",
     "TechPointCollect": "5",
     "TechPointMLB": "11",

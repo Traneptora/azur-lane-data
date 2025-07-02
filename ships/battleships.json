@@ -29,6 +29,13 @@
             "dataJSON": "ships/by-id/647/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10044",
+            "Name": "Super Gamer Kizuna AI",
+            "ShipID": "10044",
+            "battleshipJSON": "ships/by-id/10044/battleship.json",
+            "dataJSON": "ships/by-id/10044/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/10062",
             "Name": "Honoka",
             "ShipID": "10062",
@@ -112,13 +119,6 @@
             "ShipID": "10121",
             "battleshipJSON": "ships/by-id/10121/battleship.json",
             "dataJSON": "ships/by-id/10121/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab044",
-            "Name": "Super Gamer Kizuna AI",
-            "ShipID": "Collab044",
-            "battleshipJSON": "ships/by-id/Collab044/battleship.json",
-            "dataJSON": "ships/by-id/Collab044/ship.json"
         },
         {
             "DataDir": "ships/by-id/30005",
@@ -226,11 +226,60 @@
             "dataJSON": "ships/by-id/30046/ship.json"
         },
         {
+            "DataDir": "ships/by-id/20002",
+            "Name": "Monarch",
+            "ShipID": "20002",
+            "battleshipJSON": "ships/by-id/20002/battleship.json",
+            "dataJSON": "ships/by-id/20002/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20004",
+            "Name": "Izumo",
+            "ShipID": "20004",
+            "battleshipJSON": "ships/by-id/20004/battleship.json",
+            "dataJSON": "ships/by-id/20004/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20008",
+            "Name": "Georgia",
+            "ShipID": "20008",
+            "battleshipJSON": "ships/by-id/20008/battleship.json",
+            "dataJSON": "ships/by-id/20008/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20011",
             "Name": "Friedrich der Große",
             "ShipID": "20011",
             "battleshipJSON": "ships/by-id/20011/battleship.json",
             "dataJSON": "ships/by-id/20011/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20012",
+            "Name": "Gascogne",
+            "ShipID": "20012",
+            "battleshipJSON": "ships/by-id/20012/battleship.json",
+            "dataJSON": "ships/by-id/20012/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20016",
+            "Name": "Odin",
+            "ShipID": "20016",
+            "battleshipJSON": "ships/by-id/20016/battleship.json",
+            "dataJSON": "ships/by-id/20016/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20017",
+            "Name": "Champagne",
+            "ShipID": "20017",
+            "battleshipJSON": "ships/by-id/20017/battleship.json",
+            "dataJSON": "ships/by-id/20017/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20022",
+            "Name": "Marco Polo",
+            "ShipID": "20022",
+            "battleshipJSON": "ships/by-id/20022/battleship.json",
+            "dataJSON": "ships/by-id/20022/ship.json"
         },
         {
             "DataDir": "ships/by-id/20024",
@@ -260,55 +309,6 @@
             "ShipID": "20034",
             "battleshipJSON": "ships/by-id/20034/battleship.json",
             "dataJSON": "ships/by-id/20034/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan002",
-            "Name": "Monarch",
-            "ShipID": "Plan002",
-            "battleshipJSON": "ships/by-id/Plan002/battleship.json",
-            "dataJSON": "ships/by-id/Plan002/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan004",
-            "Name": "Izumo",
-            "ShipID": "Plan004",
-            "battleshipJSON": "ships/by-id/Plan004/battleship.json",
-            "dataJSON": "ships/by-id/Plan004/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan008",
-            "Name": "Georgia",
-            "ShipID": "Plan008",
-            "battleshipJSON": "ships/by-id/Plan008/battleship.json",
-            "dataJSON": "ships/by-id/Plan008/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan012",
-            "Name": "Gascogne",
-            "ShipID": "Plan012",
-            "battleshipJSON": "ships/by-id/Plan012/battleship.json",
-            "dataJSON": "ships/by-id/Plan012/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan016",
-            "Name": "Odin",
-            "ShipID": "Plan016",
-            "battleshipJSON": "ships/by-id/Plan016/battleship.json",
-            "dataJSON": "ships/by-id/Plan016/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan017",
-            "Name": "Champagne",
-            "ShipID": "Plan017",
-            "battleshipJSON": "ships/by-id/Plan017/battleship.json",
-            "dataJSON": "ships/by-id/Plan017/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan022",
-            "Name": "Marco Polo",
-            "ShipID": "Plan022",
-            "battleshipJSON": "ships/by-id/Plan022/battleship.json",
-            "dataJSON": "ships/by-id/Plan022/ship.json"
         },
         {
             "DataDir": "ships/by-id/052",

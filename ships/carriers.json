@@ -50,6 +50,69 @@
             "dataJSON": "ships/by-id/639/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10004",
+            "Name": "Vert",
+            "ShipID": "10004",
+            "carrierJSON": "ships/by-id/10004/carrier.json",
+            "dataJSON": "ships/by-id/10004/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10008",
+            "Name": "Green Heart",
+            "ShipID": "10008",
+            "carrierJSON": "ships/by-id/10008/carrier.json",
+            "dataJSON": "ships/by-id/10008/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10034",
+            "Name": "Uruuru",
+            "ShipID": "10034",
+            "carrierJSON": "ships/by-id/10034/carrier.json",
+            "dataJSON": "ships/by-id/10034/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10035",
+            "Name": "Saraana",
+            "ShipID": "10035",
+            "carrierJSON": "ships/by-id/10035/carrier.json",
+            "dataJSON": "ships/by-id/10035/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10036",
+            "Name": "Fumiruiru",
+            "ShipID": "10036",
+            "carrierJSON": "ships/by-id/10036/carrier.json",
+            "dataJSON": "ships/by-id/10036/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10043",
+            "Name": "Anniversary Kizuna AI",
+            "ShipID": "10043",
+            "carrierJSON": "ships/by-id/10043/carrier.json",
+            "dataJSON": "ships/by-id/10043/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10052",
+            "Name": "Tokino Sora",
+            "ShipID": "10052",
+            "carrierJSON": "ships/by-id/10052/carrier.json",
+            "dataJSON": "ships/by-id/10052/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10056",
+            "Name": "Murasaki Shion",
+            "ShipID": "10056",
+            "carrierJSON": "ships/by-id/10056/carrier.json",
+            "dataJSON": "ships/by-id/10056/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10057",
+            "Name": "Ookami Mio",
+            "ShipID": "10057",
+            "carrierJSON": "ships/by-id/10057/carrier.json",
+            "dataJSON": "ships/by-id/10057/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/10066",
             "Name": "Nyotengu",
             "ShipID": "10066",
@@ -126,69 +189,6 @@
             "ShipID": "10122",
             "carrierJSON": "ships/by-id/10122/carrier.json",
             "dataJSON": "ships/by-id/10122/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab004",
-            "Name": "Vert",
-            "ShipID": "Collab004",
-            "carrierJSON": "ships/by-id/Collab004/carrier.json",
-            "dataJSON": "ships/by-id/Collab004/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab008",
-            "Name": "Green Heart",
-            "ShipID": "Collab008",
-            "carrierJSON": "ships/by-id/Collab008/carrier.json",
-            "dataJSON": "ships/by-id/Collab008/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab034",
-            "Name": "Uruuru",
-            "ShipID": "Collab034",
-            "carrierJSON": "ships/by-id/Collab034/carrier.json",
-            "dataJSON": "ships/by-id/Collab034/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab035",
-            "Name": "Saraana",
-            "ShipID": "Collab035",
-            "carrierJSON": "ships/by-id/Collab035/carrier.json",
-            "dataJSON": "ships/by-id/Collab035/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab036",
-            "Name": "Fumiruiru",
-            "ShipID": "Collab036",
-            "carrierJSON": "ships/by-id/Collab036/carrier.json",
-            "dataJSON": "ships/by-id/Collab036/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab043",
-            "Name": "Anniversary Kizuna AI",
-            "ShipID": "Collab043",
-            "carrierJSON": "ships/by-id/Collab043/carrier.json",
-            "dataJSON": "ships/by-id/Collab043/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab052",
-            "Name": "Tokino Sora",
-            "ShipID": "Collab052",
-            "carrierJSON": "ships/by-id/Collab052/carrier.json",
-            "dataJSON": "ships/by-id/Collab052/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab056",
-            "Name": "Murasaki Shion",
-            "ShipID": "Collab056",
-            "carrierJSON": "ships/by-id/Collab056/carrier.json",
-            "dataJSON": "ships/by-id/Collab056/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Collab057",
-            "Name": "Ookami Mio",
-            "ShipID": "Collab057",
-            "carrierJSON": "ships/by-id/Collab057/carrier.json",
-            "dataJSON": "ships/by-id/Collab057/ship.json"
         },
         {
             "DataDir": "ships/by-id/30001",
@@ -275,6 +275,13 @@
             "dataJSON": "ships/by-id/20019/ship.json"
         },
         {
+            "DataDir": "ships/by-id/20021",
+            "Name": "August von Parseval",
+            "ShipID": "20021",
+            "carrierJSON": "ships/by-id/20021/carrier.json",
+            "dataJSON": "ships/by-id/20021/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20026",
             "Name": "Chkalov",
             "ShipID": "20026",
@@ -295,13 +302,6 @@
             "ShipID": "20036",
             "carrierJSON": "ships/by-id/20036/carrier.json",
             "dataJSON": "ships/by-id/20036/ship.json"
-        },
-        {
-            "DataDir": "ships/by-id/Plan021",
-            "Name": "August von Parseval",
-            "ShipID": "Plan021",
-            "carrierJSON": "ships/by-id/Plan021/carrier.json",
-            "dataJSON": "ships/by-id/Plan021/ship.json"
         },
         {
             "DataDir": "ships/by-id/070",
