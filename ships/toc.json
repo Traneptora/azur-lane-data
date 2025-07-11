@@ -1164,6 +1164,38 @@
             "dataJSON": "ships/by-id/20037/ship.json"
         },
         {
+            "DataDir": "ships/by-id/20038",
+            "Name": "Kansas",
+            "ShipID": "20038",
+            "battleshipJSON": "ships/by-id/20038/battleship.json",
+            "dataJSON": "ships/by-id/20038/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20039",
+            "Name": "Mecklenburg",
+            "ShipID": "20039",
+            "battleshipJSON": "ships/by-id/20039/battleship.json",
+            "dataJSON": "ships/by-id/20039/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20040",
+            "Name": "Vittorio Cuniberti",
+            "ShipID": "20040",
+            "dataJSON": "ships/by-id/20040/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20041",
+            "Name": "Dmitri Donskoi",
+            "ShipID": "20041",
+            "dataJSON": "ships/by-id/20041/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20042",
+            "Name": "Gouden Leeuw",
+            "ShipID": "20042",
+            "dataJSON": "ships/by-id/20042/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/001",
             "Name": "Universal Bulin",
             "ShipID": "001",

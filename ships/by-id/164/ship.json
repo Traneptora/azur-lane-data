@@ -100,7 +100,7 @@
     "StatBonus120Type": "Torpedo",
     "StatBonusCollect": "1",
     "StatBonusCollectType": "Firepower",
-    "SubtypeRetro": "",
+    "SubtypeRetro": null,
     "TechPoint120": "12",
     "TechPointCollect": "8",
     "TechPointMLB": "16",

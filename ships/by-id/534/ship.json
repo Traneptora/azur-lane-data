@@ -100,7 +100,7 @@
     "StatBonus120Type": "Reload",
     "StatBonusCollect": "1",
     "StatBonusCollectType": "Health",
-    "SubtypeRetro": "",
+    "SubtypeRetro": null,
     "TechPoint120": "14",
     "TechPointCollect": "8",
     "TechPointMLB": "18",

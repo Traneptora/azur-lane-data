@@ -311,6 +311,20 @@
             "dataJSON": "ships/by-id/20034/ship.json"
         },
         {
+            "DataDir": "ships/by-id/20038",
+            "Name": "Kansas",
+            "ShipID": "20038",
+            "battleshipJSON": "ships/by-id/20038/battleship.json",
+            "dataJSON": "ships/by-id/20038/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20039",
+            "Name": "Mecklenburg",
+            "ShipID": "20039",
+            "battleshipJSON": "ships/by-id/20039/battleship.json",
+            "dataJSON": "ships/by-id/20039/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/052",
             "Name": "Nevada",
             "ShipID": "052",
