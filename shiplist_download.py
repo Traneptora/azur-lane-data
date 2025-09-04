@@ -270,7 +270,11 @@ ship_skill_urls = [
 
 for i, url in enumerate(ship_urls):
     _eprint(f'Getting Ship URL: {i}')
-    r = requests.get(url)
+    headers = {
+        'User-Agent': 'Traneptora Azur Lane Data',
+        'From': 'discord: traneptora',
+    }
+    r = requests.get(url, headers=headers)
     if not r.ok:
         _eprint(f'Error getting {entry["name"]} URL: {url}')
         _eprint(f'Status code: {r.status_code}')
