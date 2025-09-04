@@ -145,14 +145,8 @@ ship_cargo_fields = [
 
 ship_joined_cargo_fields = ','.join(ship_cargo_fields)
 
-ship_urls = [
-    'https://azurlane.koumakan.jp/w/api.php?action=cargoquery&tables=ships&format=json&limit=500&offset=0&fields=' +
-        ship_joined_cargo_fields
-    'https://azurlane.koumakan.jp/w/api.php?action=cargoquery&tables=ships&format=json&limit=500&offset=500&fields=' +
-        ship_joined_cargo_fields
-    'https://azurlane.koumakan.jp/w/api.php?action=cargoquery&tables=ships&format=json&limit=500&offset=1000&fields=' +
-        ship_joined_cargo_fields
-]
+ship_urls = ['https://azurlane.koumakan.jp/w/api.php?action=cargoquery&tables=ships&format=json&limit=500'
+    + f'&offset={i}&fields={ship_joined_cargo_fields}' for i in [0, 500, 1000]]
 
 equip_cargo_fields = [
     'Name',
