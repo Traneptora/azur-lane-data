@@ -13,7 +13,7 @@ def dump_json(obj, jsonfile):
     json.dump(obj, jsonfile, sort_keys=True, indent=4, ensure_ascii=False)
     jsonfile.write('\n')
 
-for shiplist_json in ["shiplist_0.json", "shiplist_1.json"]:
+for shiplist_json in [f'shiplist_{i}.json' for i in range(3)]:
     with open(shiplist_json, "r", encoding="UTF-8") as jsonfile:
         jsonlist = json.load(jsonfile)
     json_string = json.dumps(jsonlist)
