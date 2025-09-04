@@ -29,10 +29,10 @@
     "AirMax": "0",
     "Ammo": "0",
     "Armor": "Light",
-    "Artist": null,
+    "Artist": "山×2",
     "ArtistLink": null,
-    "ArtistPixiv": null,
-    "ArtistTwitter": null,
+    "ArtistPixiv": "[http://www.pixiv.net/member.php?id=101608 山×２]",
+    "ArtistTwitter": "[https://twitter.com/yamakakeru2 ШXZ]",
     "CNName": "迪米特里·顿斯科伊",
     "Class": "Dmitri Donskoi",
     "ConstructTime": "Research",
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "283",
     "Type": "Light Cruiser",
-    "VA": null
+    "VA": "[[:wikipedia:Miyari_Nemoto|Miyari Nemoto]]"
 }

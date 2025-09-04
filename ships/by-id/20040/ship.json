@@ -29,10 +29,10 @@
     "AirMax": "0",
     "Ammo": "0",
     "Armor": "Light",
-    "Artist": null,
+    "Artist": "nys",
     "ArtistLink": null,
     "ArtistPixiv": null,
-    "ArtistTwitter": null,
+    "ArtistTwitter": "[https://twitter.com/nys_tagmus nys]",
     "CNName": "维托里奥·库尼贝尔蒂",
     "Class": "Vittorio Cuniberti",
     "ConstructTime": "Research",
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "412",
     "Type": "Destroyer",
-    "VA": null
+    "VA": "[https://www.imdb.com/name/nm11819516/ Non Harusaki]"
 }

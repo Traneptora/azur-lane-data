@@ -1,7 +1,7 @@
 {
-    "Name": "Essex",
-    "Reload": 152,
-    "ReloadUnkai": 132,
+    "Name": "Yumia Liessfeldt",
+    "Reload": 185,
+    "ReloadUnkai": 185,
     "Slot1": {
         "MLB": {
             "F": 3
@@ -12,20 +12,18 @@
     },
     "Slot2": {
         "MLB": {
-            "D": 3
+            "T": 3
         },
         "Retrofit": {
-            "D": 3,
-            "F": 3,
             "T": 3
         }
     },
     "Slot3": {
         "MLB": {
-            "T": 2
+            "N": 1
         },
         "Retrofit": {
-            "T": 2
+            "N": 1
         }
     }
 }

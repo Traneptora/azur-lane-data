@@ -605,6 +605,32 @@
             "dataJSON": "ships/by-id/10122/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10131",
+            "Name": "Yumia Liessfeldt",
+            "ShipID": "10131",
+            "carrierJSON": "ships/by-id/10131/carrier.json",
+            "dataJSON": "ships/by-id/10131/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10132",
+            "Name": "Isla von Duerer",
+            "ShipID": "10132",
+            "dataJSON": "ships/by-id/10132/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10133",
+            "Name": "Nina Friede",
+            "ShipID": "10133",
+            "battleshipJSON": "ships/by-id/10133/battleship.json",
+            "dataJSON": "ships/by-id/10133/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10134",
+            "Name": "Lenja",
+            "ShipID": "10134",
+            "dataJSON": "ships/by-id/10134/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/30001",
             "Name": "Hiryuu META",
             "ShipID": "30001",
@@ -923,6 +949,13 @@
             "Name": "Kawakaze META",
             "ShipID": "30049",
             "dataJSON": "ships/by-id/30049/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/30050",
+            "Name": "Dunkerque META",
+            "ShipID": "30050",
+            "battleshipJSON": "ships/by-id/30050/battleship.json",
+            "dataJSON": "ships/by-id/30050/ship.json"
         },
         {
             "DataDir": "ships/by-id/20001",
@@ -5045,6 +5078,38 @@
             "Name": "Z13",
             "ShipID": "696",
             "dataJSON": "ships/by-id/696/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/698",
+            "Name": "Masséna",
+            "ShipID": "698",
+            "battleshipJSON": "ships/by-id/698/battleship.json",
+            "dataJSON": "ships/by-id/698/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/699",
+            "Name": "Bois Belleau",
+            "ShipID": "699",
+            "carrierJSON": "ships/by-id/699/carrier.json",
+            "dataJSON": "ships/by-id/699/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/700",
+            "Name": "Duquesne",
+            "ShipID": "700",
+            "dataJSON": "ships/by-id/700/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/701",
+            "Name": "Le Hardi",
+            "ShipID": "701",
+            "dataJSON": "ships/by-id/701/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/702",
+            "Name": "Duguay-Trouin",
+            "ShipID": "702",
+            "dataJSON": "ships/by-id/702/ship.json"
         }
     ]
 }

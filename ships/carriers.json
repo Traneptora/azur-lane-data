@@ -191,6 +191,13 @@
             "dataJSON": "ships/by-id/10122/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10131",
+            "Name": "Yumia Liessfeldt",
+            "ShipID": "10131",
+            "carrierJSON": "ships/by-id/10131/carrier.json",
+            "dataJSON": "ships/by-id/10131/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/30001",
             "Name": "Hiryuu META",
             "ShipID": "30001",
@@ -880,6 +887,13 @@
             "ShipID": "682",
             "carrierJSON": "ships/by-id/682/carrier.json",
             "dataJSON": "ships/by-id/682/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/699",
+            "Name": "Bois Belleau",
+            "ShipID": "699",
+            "carrierJSON": "ships/by-id/699/carrier.json",
+            "dataJSON": "ships/by-id/699/ship.json"
         }
     ]
 }

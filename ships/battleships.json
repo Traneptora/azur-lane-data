@@ -121,6 +121,13 @@
             "dataJSON": "ships/by-id/10121/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10133",
+            "Name": "Nina Friede",
+            "ShipID": "10133",
+            "battleshipJSON": "ships/by-id/10133/battleship.json",
+            "dataJSON": "ships/by-id/10133/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/30005",
             "Name": "Fusou META",
             "ShipID": "30005",
@@ -224,6 +231,13 @@
             "ShipID": "30046",
             "battleshipJSON": "ships/by-id/30046/battleship.json",
             "dataJSON": "ships/by-id/30046/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/30050",
+            "Name": "Dunkerque META",
+            "ShipID": "30050",
+            "battleshipJSON": "ships/by-id/30050/battleship.json",
+            "dataJSON": "ships/by-id/30050/ship.json"
         },
         {
             "DataDir": "ships/by-id/20002",
@@ -964,6 +978,13 @@
             "ShipID": "694",
             "battleshipJSON": "ships/by-id/694/battleship.json",
             "dataJSON": "ships/by-id/694/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/698",
+            "Name": "Masséna",
+            "ShipID": "698",
+            "battleshipJSON": "ships/by-id/698/battleship.json",
+            "dataJSON": "ships/by-id/698/ship.json"
         }
     ]
 }
