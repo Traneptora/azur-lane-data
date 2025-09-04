@@ -259,14 +259,8 @@ equip_cargo_fields = [
 
 equip_joined_cargo_fields = ','.join(equip_cargo_fields)
 
-equip_urls = [
-    'https://azurlane.koumakan.jp/w/api.php?action=cargoquery&tables=equipment&format=json&limit=500&offset=0&fields=' +
-        equip_joined_cargo_fields
-    'https://azurlane.koumakan.jp/w/api.php?action=cargoquery&tables=equipment&format=json&limit=500&offset=500&fields=' +
-        equip_joined_cargo_fields
-    'https://azurlane.koumakan.jp/w/api.php?action=cargoquery&tables=equipment&format=json&limit=500&offset=1000&fields=' +
-        equip_joined_cargo_fields
-]
+equip_urls = ['https://azurlane.koumakan.jp/w/api.php?action=cargoquery&tables=equipment&format=json&limit=500&'
+    + f'offset={i}&fields={equip_joined_cargo_fields}' for i in [0, 500, 1000]]
 
 ship_skill_urls = [
     'https://azurlane.koumakan.jp/w/api.php?action=cargoquery&tables=ship_skills&format=json&limit=500&offset=0&fields=_pageName=Page,Num,Name,Detail,Remodel,Type,Icon',
