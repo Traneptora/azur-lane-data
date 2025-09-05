@@ -958,6 +958,12 @@
             "dataJSON": "ships/by-id/30050/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30051",
+            "Name": "Yuudachi META",
+            "ShipID": "30051",
+            "dataJSON": "ships/by-id/30051/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20001",
             "Name": "Neptune",
             "ShipID": "20001",
