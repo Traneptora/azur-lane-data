@@ -985,6 +985,13 @@
             "ShipID": "698",
             "battleshipJSON": "ships/by-id/698/battleship.json",
             "dataJSON": "ships/by-id/698/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/706",
+            "Name": "Oumi",
+            "ShipID": "706",
+            "battleshipJSON": "ships/by-id/706/battleship.json",
+            "dataJSON": "ships/by-id/706/ship.json"
         }
     ]
 }

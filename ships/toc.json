@@ -5116,6 +5116,45 @@
             "Name": "Duguay-Trouin",
             "ShipID": "702",
             "dataJSON": "ships/by-id/702/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/703",
+            "Name": "Hakuhou",
+            "ShipID": "703",
+            "carrierJSON": "ships/by-id/703/carrier.json",
+            "dataJSON": "ships/by-id/703/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/704",
+            "Name": "Taekaze",
+            "ShipID": "704",
+            "dataJSON": "ships/by-id/704/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/705",
+            "Name": "I-404",
+            "ShipID": "705",
+            "carrierJSON": "ships/by-id/705/carrier.json",
+            "dataJSON": "ships/by-id/705/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/706",
+            "Name": "Oumi",
+            "ShipID": "706",
+            "battleshipJSON": "ships/by-id/706/battleship.json",
+            "dataJSON": "ships/by-id/706/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/707",
+            "Name": "Asama",
+            "ShipID": "707",
+            "dataJSON": "ships/by-id/707/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/708",
+            "Name": "Minase",
+            "ShipID": "708",
+            "dataJSON": "ships/by-id/708/ship.json"
         }
     ]
 }
