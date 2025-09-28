@@ -964,6 +964,12 @@
             "dataJSON": "ships/by-id/30051/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30052",
+            "Name": "Dewey META",
+            "ShipID": "30052",
+            "dataJSON": "ships/by-id/30052/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20001",
             "Name": "Neptune",
             "ShipID": "20001",
