@@ -631,6 +631,18 @@
             "dataJSON": "ships/by-id/10134/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10141",
+            "Name": "Hestia",
+            "ShipID": "10141",
+            "dataJSON": "ships/by-id/10141/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10142",
+            "Name": "Ryu Lion",
+            "ShipID": "10142",
+            "dataJSON": "ships/by-id/10142/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/30001",
             "Name": "Hiryuu META",
             "ShipID": "30001",
