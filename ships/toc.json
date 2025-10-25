@@ -5173,6 +5173,36 @@
             "Name": "Minase",
             "ShipID": "708",
             "dataJSON": "ships/by-id/708/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/709",
+            "Name": "Queen Anne's Revenge",
+            "ShipID": "709",
+            "dataJSON": "ships/by-id/709/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/710",
+            "Name": "Lyme",
+            "ShipID": "710",
+            "dataJSON": "ships/by-id/710/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/711",
+            "Name": "Pearl",
+            "ShipID": "711",
+            "dataJSON": "ships/by-id/711/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/712",
+            "Name": "Royal James",
+            "ShipID": "712",
+            "dataJSON": "ships/by-id/712/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/713",
+            "Name": "Adventure",
+            "ShipID": "713",
+            "dataJSON": "ships/by-id/713/ship.json"
         }
     ]
 }
