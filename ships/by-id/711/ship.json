@@ -35,7 +35,7 @@
     "ArtistTwitter": null,
     "CNName": "珍珠号",
     "Class": "Pearl",
-    "ConstructTime": null,
+    "ConstructTime": "04:46:02",
     "ConsumptionInitial": "5",
     "ConsumptionMax": "14",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Sailing Frigate (Main)",
-    "VA": null
+    "VA": "Narumi Aisaka"
 }

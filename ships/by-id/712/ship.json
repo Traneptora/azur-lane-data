@@ -35,7 +35,7 @@
     "ArtistTwitter": null,
     "CNName": "皇家詹姆斯号",
     "Class": "Royal James",
-    "ConstructTime": null,
+    "ConstructTime": "00:28:37",
     "ConsumptionInitial": "2",
     "ConsumptionMax": "9",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Sailing Frigate (Vanguard)",
-    "VA": null
+    "VA": "Ozawa Rena"
 }

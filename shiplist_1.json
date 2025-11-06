@@ -37444,7 +37444,7 @@
                 "ArtistTwitter": null,
                 "CNName": "安妮女王复仇号",
                 "Class": "Queen Anne's Revenge",
-                "ConstructTime": null,
+                "ConstructTime": "04:46:10",
                 "ConsumptionInitial": "5",
                 "ConsumptionMax": "14",
                 "Eq1BaseKai": null,
@@ -37521,7 +37521,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Sailing Frigate (Main)",
-                "VA": null
+                "VA": "Amachi Haru"
             }
         },
         {
@@ -37562,7 +37562,7 @@
                 "ArtistTwitter": null,
                 "CNName": "莱姆号",
                 "Class": "Lyme",
-                "ConstructTime": null,
+                "ConstructTime": "00:28:14",
                 "ConsumptionInitial": "3",
                 "ConsumptionMax": "11",
                 "Eq1BaseKai": null,
@@ -37639,7 +37639,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Sailing Frigate (Vanguard)",
-                "VA": null
+                "VA": "Yano Yumika"
             }
         },
         {
@@ -37680,7 +37680,7 @@
                 "ArtistTwitter": null,
                 "CNName": "珍珠号",
                 "Class": "Pearl",
-                "ConstructTime": null,
+                "ConstructTime": "04:46:02",
                 "ConsumptionInitial": "5",
                 "ConsumptionMax": "14",
                 "Eq1BaseKai": null,
@@ -37757,7 +37757,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Sailing Frigate (Main)",
-                "VA": null
+                "VA": "Narumi Aisaka"
             }
         },
         {
@@ -37798,7 +37798,7 @@
                 "ArtistTwitter": null,
                 "CNName": "皇家詹姆斯号",
                 "Class": "Royal James",
-                "ConstructTime": null,
+                "ConstructTime": "00:28:37",
                 "ConsumptionInitial": "2",
                 "ConsumptionMax": "9",
                 "Eq1BaseKai": null,
@@ -37875,7 +37875,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Sailing Frigate (Vanguard)",
-                "VA": null
+                "VA": "Ozawa Rena"
             }
         },
         {
@@ -37916,7 +37916,7 @@
                 "ArtistTwitter": null,
                 "CNName": "冒险号",
                 "Class": "Adventure",
-                "ConstructTime": null,
+                "ConstructTime": "Cannot be constructed",
                 "ConsumptionInitial": "2",
                 "ConsumptionMax": "6",
                 "Eq1BaseKai": null,
@@ -37993,7 +37993,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Sailing Frigate (Submarine)",
-                "VA": null
+                "VA": "Yamada Misuzu"
             }
         }
     ]

@@ -35,7 +35,7 @@
     "ArtistTwitter": null,
     "CNName": "冒险号",
     "Class": "Adventure",
-    "ConstructTime": null,
+    "ConstructTime": "Cannot be constructed",
     "ConsumptionInitial": "2",
     "ConsumptionMax": "6",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Sailing Frigate (Submarine)",
-    "VA": null
+    "VA": "Yamada Misuzu"
 }
