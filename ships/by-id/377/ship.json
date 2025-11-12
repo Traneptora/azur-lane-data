@@ -50,7 +50,7 @@
     "Eq2EffInitKai": "150%",
     "Eq2EffInitMax": "145%",
     "Eq2Type": "Torpedo Bombers",
-    "Eq3BaseKai": null,
+    "Eq3BaseKai": "1",
     "Eq3BaseMax": "1",
     "Eq3EffInit": "80%",
     "Eq3EffInitKai": "80%",
