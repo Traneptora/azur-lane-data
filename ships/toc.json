@@ -643,6 +643,45 @@
             "dataJSON": "ships/by-id/10142/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10151",
+            "Name": "Tohka Yatogami",
+            "ShipID": "10151",
+            "dataJSON": "ships/by-id/10151/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10152",
+            "Name": "Origami Tobiichi",
+            "ShipID": "10152",
+            "carrierJSON": "ships/by-id/10152/carrier.json",
+            "dataJSON": "ships/by-id/10152/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10153",
+            "Name": "Kotori Itsuka",
+            "ShipID": "10153",
+            "battleshipJSON": "ships/by-id/10153/battleship.json",
+            "dataJSON": "ships/by-id/10153/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10154",
+            "Name": "Yoshino",
+            "ShipID": "10154",
+            "carrierJSON": "ships/by-id/10154/carrier.json",
+            "dataJSON": "ships/by-id/10154/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10155",
+            "Name": "Kurumi Tokisaki",
+            "ShipID": "10155",
+            "dataJSON": "ships/by-id/10155/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10156",
+            "Name": "Kaguya Yamai・Yuzuru Yamai",
+            "ShipID": "10156",
+            "dataJSON": "ships/by-id/10156/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/30001",
             "Name": "Hiryuu META",
             "ShipID": "30001",
@@ -980,6 +1019,12 @@
             "Name": "Dewey META",
             "ShipID": "30052",
             "dataJSON": "ships/by-id/30052/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/30053",
+            "Name": "Boise META",
+            "ShipID": "30053",
+            "dataJSON": "ships/by-id/30053/ship.json"
         },
         {
             "DataDir": "ships/by-id/20001",

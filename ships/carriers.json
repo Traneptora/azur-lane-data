@@ -198,6 +198,20 @@
             "dataJSON": "ships/by-id/10131/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10152",
+            "Name": "Origami Tobiichi",
+            "ShipID": "10152",
+            "carrierJSON": "ships/by-id/10152/carrier.json",
+            "dataJSON": "ships/by-id/10152/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10154",
+            "Name": "Yoshino",
+            "ShipID": "10154",
+            "carrierJSON": "ships/by-id/10154/carrier.json",
+            "dataJSON": "ships/by-id/10154/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/30001",
             "Name": "Hiryuu META",
             "ShipID": "30001",
