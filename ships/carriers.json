@@ -929,6 +929,20 @@
             "ShipID": "705",
             "carrierJSON": "ships/by-id/705/carrier.json",
             "dataJSON": "ships/by-id/705/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/715",
+            "Name": "Lexington II",
+            "ShipID": "715",
+            "carrierJSON": "ships/by-id/715/carrier.json",
+            "dataJSON": "ships/by-id/715/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/716",
+            "Name": "Cowpens",
+            "ShipID": "716",
+            "carrierJSON": "ships/by-id/716/carrier.json",
+            "dataJSON": "ships/by-id/716/ship.json"
         }
     ]
 }

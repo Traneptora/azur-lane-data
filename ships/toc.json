@@ -1034,6 +1034,12 @@
             "dataJSON": "ships/by-id/30054/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30055",
+            "Name": "Cleveland META",
+            "ShipID": "30055",
+            "dataJSON": "ships/by-id/30055/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20001",
             "Name": "Neptune",
             "ShipID": "20001",
@@ -1369,6 +1375,12 @@
             "Name": "Fletcher",
             "ShipID": "011",
             "dataJSON": "ships/by-id/011/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/012",
+            "Name": "William D. Porter",
+            "ShipID": "012",
+            "dataJSON": "ships/by-id/012/ship.json"
         },
         {
             "DataDir": "ships/by-id/013",
@@ -5255,6 +5267,32 @@
             "Name": "Adventure",
             "ShipID": "713",
             "dataJSON": "ships/by-id/713/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/715",
+            "Name": "Lexington II",
+            "ShipID": "715",
+            "carrierJSON": "ships/by-id/715/carrier.json",
+            "dataJSON": "ships/by-id/715/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/716",
+            "Name": "Cowpens",
+            "ShipID": "716",
+            "carrierJSON": "ships/by-id/716/carrier.json",
+            "dataJSON": "ships/by-id/716/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/718",
+            "Name": "Clarence K. Bronson",
+            "ShipID": "718",
+            "dataJSON": "ships/by-id/718/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/719",
+            "Name": "Pasadena",
+            "ShipID": "719",
+            "dataJSON": "ships/by-id/719/ship.json"
         }
     ]
 }

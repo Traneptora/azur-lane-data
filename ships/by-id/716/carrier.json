@@ -1,0 +1,29 @@
+{
+    "Name": "Cowpens",
+    "Reload": 220,
+    "ReloadUnkai": 220,
+    "Slot1": {
+        "MLB": {
+            "F": 4
+        },
+        "Retrofit": {
+            "F": 4
+        }
+    },
+    "Slot2": {
+        "MLB": {
+            "T": 4
+        },
+        "Retrofit": {
+            "T": 4
+        }
+    },
+    "Slot3": {
+        "MLB": {
+            "N": 1
+        },
+        "Retrofit": {
+            "N": 1
+        }
+    }
+}
