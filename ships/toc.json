@@ -5293,6 +5293,12 @@
             "Name": "Pasadena",
             "ShipID": "719",
             "dataJSON": "ships/by-id/719/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/723",
+            "Name": "Fujinami",
+            "ShipID": "723",
+            "dataJSON": "ships/by-id/723/ship.json"
         }
     ]
 }
