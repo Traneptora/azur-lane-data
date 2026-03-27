@@ -943,6 +943,13 @@
             "ShipID": "716",
             "carrierJSON": "ships/by-id/716/carrier.json",
             "dataJSON": "ships/by-id/716/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/731",
+            "Name": "Unryuu",
+            "ShipID": "731",
+            "carrierJSON": "ships/by-id/731/carrier.json",
+            "dataJSON": "ships/by-id/731/ship.json"
         }
     ]
 }

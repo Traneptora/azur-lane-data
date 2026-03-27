@@ -247,6 +247,13 @@
             "dataJSON": "ships/by-id/30050/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30057",
+            "Name": "Gangut META",
+            "ShipID": "30057",
+            "battleshipJSON": "ships/by-id/30057/battleship.json",
+            "dataJSON": "ships/by-id/30057/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20002",
             "Name": "Monarch",
             "ShipID": "20002",
@@ -999,6 +1006,13 @@
             "ShipID": "706",
             "battleshipJSON": "ships/by-id/706/battleship.json",
             "dataJSON": "ships/by-id/706/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/720",
+            "Name": "Francesco Caracciolo",
+            "ShipID": "720",
+            "battleshipJSON": "ships/by-id/720/battleship.json",
+            "dataJSON": "ships/by-id/720/ship.json"
         }
     ]
 }
