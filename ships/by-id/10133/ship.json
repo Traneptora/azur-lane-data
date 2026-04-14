@@ -35,7 +35,7 @@
     "ArtistTwitter": null,
     "CNName": "妮娜·弗里德",
     "Class": null,
-    "ConstructTime": null,
+    "ConstructTime": "06:15:00",
     "ConsumptionInitial": "5",
     "ConsumptionMax": "15",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Battleship",
-    "VA": null
+    "VA": "Mikako Komatsu"
 }

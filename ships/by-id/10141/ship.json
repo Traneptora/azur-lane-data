@@ -35,7 +35,7 @@
     "ArtistTwitter": null,
     "CNName": "赫斯缇雅",
     "Class": null,
-    "ConstructTime": null,
+    "ConstructTime": "Cannot be constructed",
     "ConsumptionInitial": "3",
     "ConsumptionMax": "11",
     "Eq1BaseKai": null,
@@ -112,5 +112,5 @@
     "TorpKai125": "0",
     "TorpMax": "0",
     "Type": "Repair Ship",
-    "VA": null
+    "VA": "[[:wikipedia:Inori Minase|Inori Minase]]"
 }

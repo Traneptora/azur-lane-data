@@ -11012,7 +11012,7 @@
                 "ArtistTwitter": null,
                 "CNName": "优米雅·利斯菲尔德",
                 "Class": null,
-                "ConstructTime": null,
+                "ConstructTime": "02:23:00",
                 "ConsumptionInitial": "4",
                 "ConsumptionMax": "12",
                 "Eq1BaseKai": null,
@@ -11089,7 +11089,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Light Aircraft Carrier",
-                "VA": null
+                "VA": "Wakana Kuramochi"
             }
         },
         {
@@ -11130,7 +11130,7 @@
                 "ArtistTwitter": null,
                 "CNName": "艾菈·冯·杜勒",
                 "Class": null,
-                "ConstructTime": null,
+                "ConstructTime": "01:16:00",
                 "ConsumptionInitial": "3",
                 "ConsumptionMax": "11",
                 "Eq1BaseKai": null,
@@ -11207,7 +11207,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "325",
                 "Type": "Light Cruiser",
-                "VA": null
+                "VA": "Kaori Maeda"
             }
         },
         {
@@ -11248,7 +11248,7 @@
                 "ArtistTwitter": null,
                 "CNName": "妮娜·弗里德",
                 "Class": null,
-                "ConstructTime": null,
+                "ConstructTime": "06:15:00",
                 "ConsumptionInitial": "5",
                 "ConsumptionMax": "15",
                 "Eq1BaseKai": null,
@@ -11325,7 +11325,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Battleship",
-                "VA": null
+                "VA": "Mikako Komatsu"
             }
         },
         {
@@ -11443,7 +11443,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "459",
                 "Type": "Destroyer",
-                "VA": null
+                "VA": "Yoshino Aoyama"
             }
         },
         {
@@ -11484,7 +11484,7 @@
                 "ArtistTwitter": null,
                 "CNName": "赫斯缇雅",
                 "Class": null,
-                "ConstructTime": null,
+                "ConstructTime": "Cannot be constructed",
                 "ConsumptionInitial": "3",
                 "ConsumptionMax": "11",
                 "Eq1BaseKai": null,
@@ -11561,7 +11561,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "0",
                 "Type": "Repair Ship",
-                "VA": null
+                "VA": "[[:wikipedia:Inori Minase|Inori Minase]]"
             }
         },
         {
@@ -11602,7 +11602,7 @@
                 "ArtistTwitter": null,
                 "CNName": "琉·璃昂",
                 "Class": null,
-                "ConstructTime": null,
+                "ConstructTime": "Cannot be constructed",
                 "ConsumptionInitial": "3",
                 "ConsumptionMax": "11",
                 "Eq1BaseKai": null,
@@ -15219,7 +15219,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "299",
                 "Type": "Destroyer",
-                "VA": null
+                "VA": "[[:wikipedia:Madoka_Asahina|Madoka Asahina]]"
             }
         },
         {
@@ -18523,7 +18523,7 @@
                 "TorpKai125": "0",
                 "TorpMax": "344",
                 "Type": "Destroyer",
-                "VA": null
+                "VA": "[[:wikipedia:Miyuri_Shimabukuro|Miyuri Shimabukuro]]"
             }
         },
         {
