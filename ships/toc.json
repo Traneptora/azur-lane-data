@@ -682,6 +682,44 @@
             "dataJSON": "ships/by-id/10156/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10990",
+            "Name": "Elise",
+            "ShipID": "10990",
+            "carrierJSON": "ships/by-id/10990/carrier.json",
+            "dataJSON": "ships/by-id/10990/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10991",
+            "Name": "Shizuku",
+            "ShipID": "10991",
+            "battleshipJSON": "ships/by-id/10991/battleship.json",
+            "dataJSON": "ships/by-id/10991/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10992",
+            "Name": "Shandy",
+            "ShipID": "10992",
+            "dataJSON": "ships/by-id/10992/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10993",
+            "Name": "Tsukushi",
+            "ShipID": "10993",
+            "dataJSON": "ships/by-id/10993/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10994",
+            "Name": "Patty",
+            "ShipID": "10994",
+            "dataJSON": "ships/by-id/10994/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10995",
+            "Name": "Yukino",
+            "ShipID": "10995",
+            "dataJSON": "ships/by-id/10995/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/30001",
             "Name": "Hiryuu META",
             "ShipID": "30001",

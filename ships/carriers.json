@@ -212,6 +212,13 @@
             "dataJSON": "ships/by-id/10154/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10990",
+            "Name": "Elise",
+            "ShipID": "10990",
+            "carrierJSON": "ships/by-id/10990/carrier.json",
+            "dataJSON": "ships/by-id/10990/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/30001",
             "Name": "Hiryuu META",
             "ShipID": "30001",

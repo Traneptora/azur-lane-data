@@ -135,6 +135,13 @@
             "dataJSON": "ships/by-id/10153/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10991",
+            "Name": "Shizuku",
+            "ShipID": "10991",
+            "battleshipJSON": "ships/by-id/10991/battleship.json",
+            "dataJSON": "ships/by-id/10991/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/30005",
             "Name": "Fusou META",
             "ShipID": "30005",
