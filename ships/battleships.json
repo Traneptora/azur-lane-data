@@ -29,6 +29,13 @@
             "dataJSON": "ships/by-id/647/ship.json"
         },
         {
+            "DataDir": "ships/by-id/734",
+            "Name": "Musashi-chan",
+            "ShipID": "734",
+            "battleshipJSON": "ships/by-id/734/battleship.json",
+            "dataJSON": "ships/by-id/734/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/10044",
             "Name": "Super Gamer Kizuna AI",
             "ShipID": "10044",
