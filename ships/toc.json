@@ -5059,6 +5059,12 @@
             "dataJSON": "ships/by-id/667/ship.json"
         },
         {
+            "DataDir": "ships/by-id/668",
+            "Name": "Dolphin",
+            "ShipID": "668",
+            "dataJSON": "ships/by-id/668/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/669",
             "Name": "Fritz Rumey",
             "ShipID": "669",
