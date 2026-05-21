@@ -1110,6 +1110,13 @@
             "dataJSON": "ships/by-id/30059/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30061",
+            "Name": "Elbe META",
+            "ShipID": "30061",
+            "carrierJSON": "ships/by-id/30061/carrier.json",
+            "dataJSON": "ships/by-id/30061/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20001",
             "Name": "Neptune",
             "ShipID": "20001",
@@ -5443,6 +5450,37 @@
             "Name": "Nayoro",
             "ShipID": "733",
             "dataJSON": "ships/by-id/733/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/735",
+            "Name": "Götz von Berlichingen",
+            "ShipID": "735",
+            "battleshipJSON": "ships/by-id/735/battleship.json",
+            "dataJSON": "ships/by-id/735/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/736",
+            "Name": "U-2501",
+            "ShipID": "736",
+            "dataJSON": "ships/by-id/736/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/737",
+            "Name": "Prinz Moritz",
+            "ShipID": "737",
+            "dataJSON": "ships/by-id/737/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/738",
+            "Name": "Z14",
+            "ShipID": "738",
+            "dataJSON": "ships/by-id/738/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/739",
+            "Name": "Z15",
+            "ShipID": "739",
+            "dataJSON": "ships/by-id/739/ship.json"
         }
     ]
 }

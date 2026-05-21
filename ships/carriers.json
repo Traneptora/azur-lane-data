@@ -303,6 +303,13 @@
             "dataJSON": "ships/by-id/30054/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30061",
+            "Name": "Elbe META",
+            "ShipID": "30061",
+            "carrierJSON": "ships/by-id/30061/carrier.json",
+            "dataJSON": "ships/by-id/30061/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20019",
             "Name": "Hakuryuu",
             "ShipID": "20019",

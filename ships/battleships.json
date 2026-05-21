@@ -1027,6 +1027,13 @@
             "ShipID": "720",
             "battleshipJSON": "ships/by-id/720/battleship.json",
             "dataJSON": "ships/by-id/720/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/735",
+            "Name": "Götz von Berlichingen",
+            "ShipID": "735",
+            "battleshipJSON": "ships/by-id/735/battleship.json",
+            "dataJSON": "ships/by-id/735/ship.json"
         }
     ]
 }
