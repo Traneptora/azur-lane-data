@@ -141,6 +141,12 @@
             "dataJSON": "ships/by-id/734/ship.json"
         },
         {
+            "DataDir": "ships/by-id/740",
+            "Name": "Unzen-chan",
+            "ShipID": "740",
+            "dataJSON": "ships/by-id/740/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/10001",
             "Name": "Neptune (Neptunia)",
             "ShipID": "10001",
@@ -1108,6 +1114,12 @@
             "Name": "Köln META",
             "ShipID": "30059",
             "dataJSON": "ships/by-id/30059/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/30060",
+            "Name": "Königsberg META",
+            "ShipID": "30060",
+            "dataJSON": "ships/by-id/30060/ship.json"
         },
         {
             "DataDir": "ships/by-id/30061",
