@@ -5499,6 +5499,25 @@
             "Name": "Z15",
             "ShipID": "739",
             "dataJSON": "ships/by-id/739/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/743",
+            "Name": "Cherbourg",
+            "ShipID": "743",
+            "dataJSON": "ships/by-id/743/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/744",
+            "Name": "Arromanches",
+            "ShipID": "744",
+            "carrierJSON": "ships/by-id/744/carrier.json",
+            "dataJSON": "ships/by-id/744/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/745",
+            "Name": "L'Intrépide",
+            "ShipID": "745",
+            "dataJSON": "ships/by-id/745/ship.json"
         }
     ]
 }

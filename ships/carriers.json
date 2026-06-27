@@ -964,6 +964,13 @@
             "ShipID": "731",
             "carrierJSON": "ships/by-id/731/carrier.json",
             "dataJSON": "ships/by-id/731/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/744",
+            "Name": "Arromanches",
+            "ShipID": "744",
+            "carrierJSON": "ships/by-id/744/carrier.json",
+            "dataJSON": "ships/by-id/744/ship.json"
         }
     ]
 }
