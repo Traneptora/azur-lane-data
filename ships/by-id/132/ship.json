@@ -100,7 +100,7 @@
     "StatBonus120Type": "Firepower",
     "StatBonusCollect": "2",
     "StatBonusCollectType": "Health",
-    "SubtypeRetro": null,
+    "SubtypeRetro": "",
     "TechPoint120": "24",
     "TechPointCollect": "16",
     "TechPointMLB": "32",
