@@ -1406,6 +1406,39 @@
             "dataJSON": "ships/by-id/20042/ship.json"
         },
         {
+            "DataDir": "ships/by-id/20043",
+            "Name": "Duncan",
+            "ShipID": "20043",
+            "battleshipJSON": "ships/by-id/20043/battleship.json",
+            "dataJSON": "ships/by-id/20043/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20044",
+            "Name": "Takahashi",
+            "ShipID": "20044",
+            "dataJSON": "ships/by-id/20044/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20045",
+            "Name": "Max Immelmann",
+            "ShipID": "20045",
+            "carrierJSON": "ships/by-id/20045/carrier.json",
+            "dataJSON": "ships/by-id/20045/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20046",
+            "Name": "Orage",
+            "ShipID": "20046",
+            "dataJSON": "ships/by-id/20046/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20047",
+            "Name": "Valparaíso",
+            "ShipID": "20047",
+            "battleshipJSON": "ships/by-id/20047/battleship.json",
+            "dataJSON": "ships/by-id/20047/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/001",
             "Name": "Universal Bulin",
             "ShipID": "001",

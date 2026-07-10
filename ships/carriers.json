@@ -346,6 +346,13 @@
             "dataJSON": "ships/by-id/20036/ship.json"
         },
         {
+            "DataDir": "ships/by-id/20045",
+            "Name": "Max Immelmann",
+            "ShipID": "20045",
+            "carrierJSON": "ships/by-id/20045/carrier.json",
+            "dataJSON": "ships/by-id/20045/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/070",
             "Name": "Long Island",
             "ShipID": "070",

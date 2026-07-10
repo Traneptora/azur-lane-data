@@ -367,6 +367,20 @@
             "dataJSON": "ships/by-id/20039/ship.json"
         },
         {
+            "DataDir": "ships/by-id/20043",
+            "Name": "Duncan",
+            "ShipID": "20043",
+            "battleshipJSON": "ships/by-id/20043/battleship.json",
+            "dataJSON": "ships/by-id/20043/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/20047",
+            "Name": "Valparaíso",
+            "ShipID": "20047",
+            "battleshipJSON": "ships/by-id/20047/battleship.json",
+            "dataJSON": "ships/by-id/20047/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/052",
             "Name": "Nevada",
             "ShipID": "052",
