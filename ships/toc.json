@@ -695,6 +695,18 @@
             "dataJSON": "ships/by-id/10156/ship.json"
         },
         {
+            "DataDir": "ships/by-id/10171",
+            "Name": "A2",
+            "ShipID": "10171",
+            "dataJSON": "ships/by-id/10171/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/10172",
+            "Name": "2B",
+            "ShipID": "10172",
+            "dataJSON": "ships/by-id/10172/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/10990",
             "Name": "Elise",
             "ShipID": "10990",
