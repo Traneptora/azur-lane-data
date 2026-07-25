@@ -5563,6 +5563,24 @@
             "Name": "L'Intrépide",
             "ShipID": "745",
             "dataJSON": "ships/by-id/745/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/746",
+            "Name": "Superb",
+            "ShipID": "746",
+            "dataJSON": "ships/by-id/746/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/747",
+            "Name": "Surrey",
+            "ShipID": "747",
+            "dataJSON": "ships/by-id/747/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/748",
+            "Name": "Griffin",
+            "ShipID": "748",
+            "dataJSON": "ships/by-id/748/ship.json"
         }
     ]
 }
