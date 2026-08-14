@@ -978,6 +978,13 @@
             "ShipID": "744",
             "carrierJSON": "ships/by-id/744/carrier.json",
             "dataJSON": "ships/by-id/744/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/752",
+            "Name": "Bennington",
+            "ShipID": "752",
+            "carrierJSON": "ships/by-id/752/carrier.json",
+            "dataJSON": "ships/by-id/752/ship.json"
         }
     ]
 }
