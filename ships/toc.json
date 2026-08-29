@@ -2361,6 +2361,12 @@
             "dataJSON": "ships/by-id/168/ship.json"
         },
         {
+            "DataDir": "ships/by-id/169",
+            "Name": "Amatsukaze",
+            "ShipID": "169",
+            "dataJSON": "ships/by-id/169/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/170",
             "Name": "Nowaki",
             "ShipID": "170",
