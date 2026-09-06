@@ -1153,6 +1153,13 @@
             "dataJSON": "ships/by-id/30063/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30064",
+            "Name": "Saratoga META",
+            "ShipID": "30064",
+            "carrierJSON": "ships/by-id/30064/carrier.json",
+            "dataJSON": "ships/by-id/30064/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20001",
             "Name": "Neptune",
             "ShipID": "20001",
