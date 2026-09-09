@@ -1160,6 +1160,13 @@
             "dataJSON": "ships/by-id/30064/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30065",
+            "Name": "Victorious META",
+            "ShipID": "30065",
+            "carrierJSON": "ships/by-id/30065/carrier.json",
+            "dataJSON": "ships/by-id/30065/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20001",
             "Name": "Neptune",
             "ShipID": "20001",
@@ -1978,6 +1985,12 @@
             "Name": "Hardy",
             "ShipID": "096",
             "dataJSON": "ships/by-id/096/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/099",
+            "Name": "Hostile",
+            "ShipID": "099",
+            "dataJSON": "ships/by-id/099/ship.json"
         },
         {
             "DataDir": "ships/by-id/100",
@@ -5631,6 +5644,32 @@
             "Name": "John Rodgers",
             "ShipID": "753",
             "dataJSON": "ships/by-id/753/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/754",
+            "Name": "Tiger",
+            "ShipID": "754",
+            "dataJSON": "ships/by-id/754/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/755",
+            "Name": "Azuchi",
+            "ShipID": "755",
+            "battleshipJSON": "ships/by-id/755/battleship.json",
+            "dataJSON": "ships/by-id/755/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/756",
+            "Name": "I-14",
+            "ShipID": "756",
+            "carrierJSON": "ships/by-id/756/carrier.json",
+            "dataJSON": "ships/by-id/756/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/757",
+            "Name": "Hasty",
+            "ShipID": "757",
+            "dataJSON": "ships/by-id/757/ship.json"
         }
     ]
 }

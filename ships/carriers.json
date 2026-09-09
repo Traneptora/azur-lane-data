@@ -317,6 +317,13 @@
             "dataJSON": "ships/by-id/30064/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30065",
+            "Name": "Victorious META",
+            "ShipID": "30065",
+            "carrierJSON": "ships/by-id/30065/carrier.json",
+            "dataJSON": "ships/by-id/30065/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20019",
             "Name": "Hakuryuu",
             "ShipID": "20019",
@@ -992,6 +999,13 @@
             "ShipID": "752",
             "carrierJSON": "ships/by-id/752/carrier.json",
             "dataJSON": "ships/by-id/752/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/756",
+            "Name": "I-14",
+            "ShipID": "756",
+            "carrierJSON": "ships/by-id/756/carrier.json",
+            "dataJSON": "ships/by-id/756/ship.json"
         }
     ]
 }

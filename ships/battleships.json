@@ -1048,6 +1048,13 @@
             "ShipID": "735",
             "battleshipJSON": "ships/by-id/735/battleship.json",
             "dataJSON": "ships/by-id/735/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/755",
+            "Name": "Azuchi",
+            "ShipID": "755",
+            "battleshipJSON": "ships/by-id/755/battleship.json",
+            "dataJSON": "ships/by-id/755/ship.json"
         }
     ]
 }
