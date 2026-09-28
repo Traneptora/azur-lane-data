@@ -1167,6 +1167,12 @@
             "dataJSON": "ships/by-id/30065/ship.json"
         },
         {
+            "DataDir": "ships/by-id/30066",
+            "Name": "Soobrazitelny META",
+            "ShipID": "30066",
+            "dataJSON": "ships/by-id/30066/ship.json"
+        },
+        {
             "DataDir": "ships/by-id/20001",
             "Name": "Neptune",
             "ShipID": "20001",
