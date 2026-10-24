@@ -5676,6 +5676,36 @@
             "Name": "Hasty",
             "ShipID": "757",
             "dataJSON": "ships/by-id/757/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/760",
+            "Name": "Ormrinn Langi",
+            "ShipID": "760",
+            "dataJSON": "ships/by-id/760/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/761",
+            "Name": "Riyala Bey",
+            "ShipID": "761",
+            "dataJSON": "ships/by-id/761/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/762",
+            "Name": "Járnbarðinn",
+            "ShipID": "762",
+            "dataJSON": "ships/by-id/762/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/763",
+            "Name": "Merkuriy",
+            "ShipID": "763",
+            "dataJSON": "ships/by-id/763/ship.json"
+        },
+        {
+            "DataDir": "ships/by-id/764",
+            "Name": "Selimiye",
+            "ShipID": "764",
+            "dataJSON": "ships/by-id/764/ship.json"
         }
     ]
 }
